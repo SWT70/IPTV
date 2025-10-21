@@ -88,6 +88,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
 #EXTINF:-1 tvg-id="ntv-pravo" tvg-logo="https://iptvx.one/picons/ntv-pravo.png" group-title="📺 Общероссийские", НТВ Право
+http://iptv46.mcx-ix.ru:8077/ntv_pravo/index.m3u8
 http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 http://dmi3y-tv.ru/hls/CH_NTVPRAVO.m3u8
 
