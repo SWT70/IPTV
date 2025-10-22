@@ -434,11 +434,9 @@ http://api.peers.tv/timeshift/nstv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsIn
 http://178.212.71.253:8000/play/100/index.m3u8
 http://178.217.72.66:8080/NSTV/index.m3u8
 http://dmi3y-tv.ru/hls/CH_NST.m3u8
-
 #EXTINF:-1 CUID="187" number="414" tvg-id="hlsproxy-624" tvg-name="tvteam_:Страшное HD" arc-timeshift="168" arc-time="168" catchup="shift" catchup-days="7" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/STRASHNOEHD200.png" group-title="📽️ Кинозал",Страшное HD
 http://srvru.play-x.ru/channel/48ad14b2/index.m3u8?q=7170e086faf29a20f6b11698846effd1
 http://srvru.play-x.ru/channel/19e348d/index.m3u8?q=7170e086faf29a20f6b11698846effd1
-
 #EXTINF:-1 group-title="📽️ Кинозал" tvg-logo="http://srvru.play-x.ru/logos/shokiruyuschee.png",Шокирующее
 http://srvru.play-x.ru/channel/47d8a9ff/index.m3u8?q=7170e086faf29a20f6b11698846effd1
 http://srvru.play-x.ru/channel/1798370c/index.m3u8?q=7170e086faf29a20f6b11698846effd1
@@ -507,14 +505,12 @@ http://iptv46.mcx-ix.ru:8077/indiya/index.m3u8
 http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал", Комедийное
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Komediinoe
-#EXTINF:-1 group-title="📽️ Кинозал", VIP PREMIERE HD
-http://77.235.1.19:8000/play/a05c/index.m3u8
-#EXTINF:-1 group-title="📽️ Кинозал", VIP COMEDY HD
-http://77.235.1.19:8000/play/a05e/index.m3u8
-#EXTINF:-1 group-title="📽️ Кинозал",VIJU+ MEGAHIT HD
-http://77.235.1.19:8000/play/a05d/index.m3u8
-http://95.156.76.230:33001/udp/230.4.34.108:1234
-https://livetv.mylifeisgood.net.ru/channels/viju-megahit.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📽️ Кинозал" ,VIP Megahit HD
+http://api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjExMTYxOTYsImlhdCI6MTc2MTAyOTc5NiwiY2lkIjo2LCJ1aWQiOjk1NjU3ODQ0MCwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.5rcl5QuVNpQtkuCjRkEsSfN1rcE30M3MymvmIzXmL-4&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📽️ Кинозал" ,VIP Premiere HD
+http://api.peers.tv/timeshift/tv1000_premium_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjExMTYxOTYsImlhdCI6MTc2MTAyOTc5NiwiY2lkIjo2LCJ1aWQiOjk1NjU3ODQ0MCwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.5rcl5QuVNpQtkuCjRkEsSfN1rcE30M3MymvmIzXmL-4&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📽️ Кинозал" ,VIP Comedy HD
+http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjExMTYxOTYsImlhdCI6MTc2MTAyOTc5NiwiY2lkIjo2LCJ1aWQiOjk1NjU3ODQ0MCwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.5rcl5QuVNpQtkuCjRkEsSfN1rcE30M3MymvmIzXmL-4&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📽️ Кинозал" ,TV1000
 http://api.peers.tv/timeshift/tv1000/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjExMTYxOTYsImlhdCI6MTc2MTAyOTc5NiwiY2lkIjo2LCJ1aWQiOjk1NjU3ODQ0MCwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.5rcl5QuVNpQtkuCjRkEsSfN1rcE30M3MymvmIzXmL-4&offset=10
 http://109.248.236.51/viju_tv1000/mono.m3u8
@@ -524,7 +520,9 @@ http://api.peers.tv/timeshift/tv1000_action/16/playlist.m3u8?token=eyJhbGciOiJIU
 http://109.248.236.51/viju_tv1000_action/mono.m3u8
 http://130.193.73.10:8937/play/a02t
 #EXTINF:-1 tvg-id="ostrosiuzhetnoe-hd" tvg-logo="https://iptvx.one/picons/ostrosiuzhetnoe-hd.png" group-title="📽️ Кинозал", Остросюжетное
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ostrosuzhetnoe  
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ostrosuzhetnoe
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📽️ Кинозал" ,Капитан Фантастика
+http://api.peers.tv/timeshift/ginger_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjExMTYxOTYsImlhdCI6MTc2MTAyOTc5NiwiY2lkIjo2LCJ1aWQiOjk1NjU3ODQ0MCwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.5rcl5QuVNpQtkuCjRkEsSfN1rcE30M3MymvmIzXmL-4&offset=10
 #EXTINF:-1 tvg-id="kinopokaz" tvg-logo="https://iptvx.one/picons/kinopokaz.png" group-title="📽️ Кинозал", Кинопоказ
 http://iptv46.mcx-ix.ru:8077/kinopokaz/index.m3u8
 http://31.148.48.15/Kinopokaz/tracks-v1a1/mono.m3u8?token=default
@@ -542,11 +540,11 @@ http://178.212.71.253:8000/play/78/index.m3u8
 https://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал", КиноТВ (+4)
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=kinotvhd4
-#EXTINF:-1 group-title="📽️ Кинозал",tvg-logo="https://iptvx.one/picons/tvxxi.png",TV XXI
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📽️ Кинозал" ,TV XXI
 http://api.peers.tv/timeshift/tv21/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjExMTYxOTYsImlhdCI6MTc2MTAyOTc5NiwiY2lkIjo2LCJ1aWQiOjk1NjU3ODQ0MCwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.5rcl5QuVNpQtkuCjRkEsSfN1rcE30M3MymvmIzXmL-4&offset=10
 #EXTINF:-1 group-title="📽️ Кинозал", Cinema HD
 http://77.235.1.19:8000/play/a01d/index.m3u8
-#EXTINF:-1 group-title="📽️ Кинозал" tvg-logo="https://iptvx.one/picons/cinema.png",Cinema
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📽️ Кинозал" ,Cinema
 http://api.peers.tv/timeshift/ipark/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjExMTYxOTYsImlhdCI6MTc2MTAyOTc5NiwiY2lkIjo2LCJ1aWQiOjk1NjU3ODQ0MCwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.5rcl5QuVNpQtkuCjRkEsSfN1rcE30M3MymvmIzXmL-4&offset=10
 http://catchup.videoline.ru/cinema/index.m3u8
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
@@ -560,8 +558,8 @@ https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
 #EXTINF:-1 tvg-id="hollywood" tvg-logo="https://iptvx.one/picons/hollywood.png" group-title="📽️ Кинозал",HollywooD
 http://31.173.165.29:8000/play/a055/index.m3u8
 http://109.200.130.123:7537/play/a02g
-#EXTINF:-1 group-title="📽️ Кинозал", Иллюзион+
-http://31.173.165.29:8000/play/a04l/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📽️ Кинозал" ,Иллюзион+
+http://api.peers.tv/timeshift/illyuzion/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjExMTYxOTYsImlhdCI6MTc2MTAyOTc5NiwiY2lkIjo2LCJ1aWQiOjk1NjU3ODQ0MCwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.5rcl5QuVNpQtkuCjRkEsSfN1rcE30M3MymvmIzXmL-4&offset=10
 #EXTINF:-1 tvg-id="premialnoe-hd" tvg-logo="https://iptvx.one/picons/premialnoe-hd.png" group-title="📽️ Кинозал", Премиальное HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Premialnoe_HD
 http://141.95.55.143/CH545/index.m3u8
@@ -593,7 +591,7 @@ https://autopilot.catcast.tv/content/40381/index.m3u8
 https://132544.edgevideo.ru/streams/132544_806129/1325441080/index.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал", VHS-ка
 http://176.196.166.171:81/udp/239.255.42.88:1234
-#EXTINF:-1 group-title="📽️ Кинозал", FilmBox
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📽️ Кинозал" ,FILMBOX
 http://api.peers.tv/timeshift/filmbox/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjExMTYxOTYsImlhdCI6MTc2MTAyOTc5NiwiY2lkIjo2LCJ1aWQiOjk1NjU3ODQ0MCwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.5rcl5QuVNpQtkuCjRkEsSfN1rcE30M3MymvmIzXmL-4&offset=10
 http://45.143.108.110:2200/FilmBOX 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📽️ Кинозал" ,Filmbox Arthouse
@@ -602,7 +600,7 @@ http://api.peers.tv/timeshift/filmbox_arthouse/16/playlist.m3u8?token=eyJhbGciOi
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 tvg-id="khit-hd" tvg-logo="https://iptvx.one/picons/khit.png" group-title="📽️ Кинозал", Хит (HD)
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Hit_HD
-#EXTINF:-1 group-title="📽️ Кинозал",.red
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📽️ Кинозал" ,.red
 http://api.peers.tv/timeshift/set/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjExMTYxOTYsImlhdCI6MTc2MTAyOTc5NiwiY2lkIjo2LCJ1aWQiOjk1NjU3ODQ0MCwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.5rcl5QuVNpQtkuCjRkEsSfN1rcE30M3MymvmIzXmL-4&offset=10
 http://178.124.152.238:8088/sony
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📽️ Кинозал" ,.black
@@ -614,8 +612,8 @@ http://hls.goodgame.ru:8080/hls/5346.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал", Сinema Cosmos TV
 http://178.124.152.238:8088/cinema
 #EXTINF:-1 group-title="📽️ Кинозал", FAN 
-http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="📽️ Кинозал", FAN HD
+
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📽️ Кинозал" ,Fan HD
 http://api.peers.tv/timeshift/fan_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjExMTYxOTYsImlhdCI6MTc2MTAyOTc5NiwiY2lkIjo2LCJ1aWQiOjk1NjU3ODQ0MCwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.5rcl5QuVNpQtkuCjRkEsSfN1rcE30M3MymvmIzXmL-4&offset=10
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=FAN_HD
 #EXTINF:-1 group-title="📽️ Кинозал", FMC
@@ -1064,13 +1062,16 @@ https://stream-msk-16.ott.tricolor.tv/dtv/id929_MSKSG-PVR-1--Kinozal_2/03/plst.m
 http://80.245.95.243:8888/play/age988/index.m3u8
 #EXTINF:-1 group-title="📹 Русский кинозал", Наше новое кино 
 http://iptv46.mcx-ix.ru:8077/nashe-novoe-kino/index.m3u8
-#EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png" group-title="📹 Русский кинозал",Viju TV1000 Русское 
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📹 Русский кинозал" ,TV1000 Русское кино
+http://api.peers.tv/timeshift/tv_1000_rus_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjExMTYxOTYsImlhdCI6MTc2MTAyOTc5NiwiY2lkIjo2LCJ1aWQiOjk1NjU3ODQ0MCwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.5rcl5QuVNpQtkuCjRkEsSfN1rcE30M3MymvmIzXmL-4&offset=10
 http://109.248.236.51/viju_tv1000_russkoe/mono.m3u8
 http://130.193.73.10:8937/play/a02u
 #EXTINF:-1 tvg-id="russkaya-komedia" tvg-logo="https://iptvx.one/picons/russkaya-komedia.png" group-title="📹 Русский кинозал",Комедия
 http://130.193.73.10:8937/play/a03k
 #EXTINF:-1 tvg-id="denpobedy" tvg-logo="https://iptvx.one/picons/denpobedy.png" group-title="📹 Русский кинозал",День Победы (HD)
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Den_Pobedy
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📹 Русский кинозал" ,Дом кино
+http://api.peers.tv/timeshift/dom_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjExMTYxOTYsImlhdCI6MTc2MTAyOTc5NiwiY2lkIjo2LCJ1aWQiOjk1NjU3ODQ0MCwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.5rcl5QuVNpQtkuCjRkEsSfN1rcE30M3MymvmIzXmL-4&offset=10
 #EXTINF:-1 tvg-id="domkino" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="📹 Русский кинозал",Дом Кино
 http://178.212.71.253:8000/play/99/index.m3u8
 http://45.159.74.22/DomKino/tracks-v1a1/mono.m3u8
@@ -1080,25 +1081,33 @@ http://109.200.130.123:7537/play/a02d
 http://kino-1.catcast.tv/content/38617/index.m3u8
 http://dmi3y-tv.ru/hls/CH_KINO1_INT.m3u8
 http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📹 Русский кинозал" ,Дом кино Премиум
+http://api.peers.tv/timeshift/dom_kino_premium/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjExMTYxOTYsImlhdCI6MTc2MTAyOTc5NiwiY2lkIjo2LCJ1aWQiOjk1NjU3ODQ0MCwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.5rcl5QuVNpQtkuCjRkEsSfN1rcE30M3MymvmIzXmL-4&offset=10
 #EXTINF:-1 group-title="📹 Русский кинозал" tvg-logo="http://loganet.ru/images/channels/Movie/Home-Movie-Premium-HD.png", Дом кино Премиум HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Dom_Kino_premium
 http://45.159.74.22/THT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="dushevnoe" tvg-logo="https://iptvx.one/picons/dushevnoe.png" group-title="📹 Русский кинозал",Душевное (HD)
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Nash_Kinoroman
-#EXTINF:-1 tvg-id="nash-kinopokaz-hd" tvg-logo="https://iptvx.one/picons/nash-kinopokaz.png" group-title="📹 Русский кинозал",Наш кинопоказ (HD)
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_kinopokaz_HD
-#EXTINF:-1 tvg-id="russky-bestseller" tvg-logo="https://iptvx.one/picons/russky-bestseller.png" group-title="📹 Русский кинозал",Русский бестселлер
-http://130.193.73.10:8937/play/a03l
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📹 Русский кинозал" ,Русский бестселлер
+http://api.peers.tv/timeshift/russia_best/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjExMTYxOTYsImlhdCI6MTc2MTAyOTc5NiwiY2lkIjo2LCJ1aWQiOjk1NjU3ODQ0MCwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.5rcl5QuVNpQtkuCjRkEsSfN1rcE30M3MymvmIzXmL-4&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📹 Русский кинозал" ,Русский детектив
+http://api.peers.tv/timeshift/russkiy_detektiv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjExMTYxOTYsImlhdCI6MTc2MTAyOTc5NiwiY2lkIjo2LCJ1aWQiOjk1NjU3ODQ0MCwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.5rcl5QuVNpQtkuCjRkEsSfN1rcE30M3MymvmIzXmL-4&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📹 Русский кинозал" ,Русский иллюзион
+http://api.peers.tv/timeshift/russian_illusion/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjExMTYxOTYsImlhdCI6MTc2MTAyOTc5NiwiY2lkIjo2LCJ1aWQiOjk1NjU3ODQ0MCwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.5rcl5QuVNpQtkuCjRkEsSfN1rcE30M3MymvmIzXmL-4&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📹 Русский кинозал" ,Русский роман
+http://api.peers.tv/timeshift/russian_roman/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjExMTYxOTYsImlhdCI6MTc2MTAyOTc5NiwiY2lkIjo2LCJ1aWQiOjk1NjU3ODQ0MCwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.5rcl5QuVNpQtkuCjRkEsSfN1rcE30M3MymvmIzXmL-4&offset=10
 #EXTINF:-1 tvg-id="russky-roman" tvg-logo="https://iptvx.one/picons/russky-roman.png" group-title="📹 Русский кинозал",Русский роман
 http://178.212.71.253:8000/play/42/index.m3u8
 http://130.193.73.10:8937/play/a03n
 #EXTINF:-1 group-title="📹 Русский кинозал", Русский роман HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ruskiy_roman_HD
+#EXTINF:-1 tvg-id="nash-kinopokaz-hd" tvg-logo="https://iptvx.one/picons/nash-kinopokaz.png" group-title="📹 Русский кинозал",Наш кинопоказ (HD)
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_kinopokaz_HD
 #EXTINF:-1 tvg-id="telekafe" tvg-logo="https://iptvx.one/picons/telekafe.png" group-title="📹 Русский кинозал",Телекафе
 https://cdn2.skygo.mn/live/disk1/Telecafe/HLS-FTA/Telecafe.m3u8
-#EXTINF:-1 group-title="📹 Русский кинозал",Кино и сериалы (СМОТРИМ)
+#EXTINF:-1 group-title="📹 Русский кинозал",Кино и сериалы
 http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
-#EXTINF:-1 group-title="📹 Русский кинозал",Кино и сериалы HD (СМОТРИМ)
+#EXTINF:-1 group-title="📹 Русский кинозал",Кино и сериалы HD
 http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
 #EXTINF:-1 group-title="📹 Русский кинозал", Мосфильм. Золотая коллекция
 http://130.193.73.10:8937/play/a03i
@@ -1112,6 +1121,8 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Sovetskay_kinoclas
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinojam_1
 #EXTINF:-1 tvg-id="retro-tv" tvg-logo="https://iptvx.one/picons/retro-tv.png" group-title="📹 Русский кинозал",Ретро
 http://194.158.218.123:8880/Retrotv/index.m3u8
+
+
 #EXTINF:-1 group-title="📼 Сериалы", Star Cinema
 http://77.235.1.19:8000/play/a043/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📹 Русский кинозал" ,Star Family HD
@@ -1127,8 +1138,8 @@ http://iptv46.mcx-ix.ru:8077/mnogo-tv/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=kinoseria
 #EXTINF:-1 tvg-id="nashe-muzhskoe-hd" tvg-logo="https://iptvx.one/picons/nashe-muzhskoe-hd.png" group-title="📼 Сериалы",Наше Мужское HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nashe_Muzhskoe_HD
-#EXTINF:-1 group-title="📼 Сериалы", VIP SERIAL HD
-http://77.235.1.19:8000/play/a05n/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📼 Сериалы" ,VIP Serial HD
+http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjExMTYxOTYsImlhdCI6MTc2MTAyOTc5NiwiY2lkIjo2LCJ1aWQiOjk1NjU3ODQ0MCwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.5rcl5QuVNpQtkuCjRkEsSfN1rcE30M3MymvmIzXmL-4&offset=10
 #EXTINF:-1 group-title="📼 Сериалы", KION ХИТ
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=KIONHIT
 #EXTINF:-1 group-title="📼 Сериалы" tvg-id="" tvg-logo="http://epg.it999.ru/img2/1031.png",Fx HD
@@ -1138,10 +1149,10 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Lovestory
 #EXTINF:-1 tvg-id="start-air" group-title="📼 Сериалы", Start Air HD
 #EXTVLCOPT:http-user-agent=SmartTV
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
-#EXTINF:-1 tvg-id="amedia1" tvg-logo="https://iptvx.one/picons/amedia1.png" group-title="📼 Сериалы", Amedia 1
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📼 Сериалы" ,Amedia 1
 http://api.peers.tv/timeshift/amedia1/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjExMTYxOTYsImlhdCI6MTc2MTAyOTc5NiwiY2lkIjo2LCJ1aWQiOjk1NjU3ODQ0MCwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.5rcl5QuVNpQtkuCjRkEsSfN1rcE30M3MymvmIzXmL-4&offset=10
 http://130.193.73.10:8937/play/a02m
-#EXTINF:-1 group-title="📼 Сериалы", Amedia 2
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📼 Сериалы" ,Amedia 2
 http://api.peers.tv/timeshift/amedia_2/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjExMTYxOTYsImlhdCI6MTc2MTAyOTc5NiwiY2lkIjo2LCJ1aWQiOjk1NjU3ODQ0MCwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.5rcl5QuVNpQtkuCjRkEsSfN1rcE30M3MymvmIzXmL-4&offset=10
 http://sc.id-tv.kz/A2.m3u8
 http://130.193.73.10:8937/play/a02n
@@ -1151,13 +1162,13 @@ http://45.159.74.22/Nauka/tracks-v1a1/mono.m3u8
 http://109.248.236.51/amedia_hit_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📼 Сериалы", Amedia Hit HD
 http://109.248.236.51/amedia_hit_hd/mono.m3u8
-#EXTINF:-1 tvg-id="amedia-premium" tvg-logo="https://iptvx.one/picons/amedia-premium.png" group-title="📼 Сериалы", Amedia Premium (HD)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📼 Сериалы" ,Amedia Premium HD
 http://api.peers.tv/timeshift/amediapremium_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjExMTYxOTYsImlhdCI6MTc2MTAyOTc5NiwiY2lkIjo2LCJ1aWQiOjk1NjU3ODQ0MCwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.5rcl5QuVNpQtkuCjRkEsSfN1rcE30M3MymvmIzXmL-4&offset=10
 http://195.18.23.20:8000/play/3/index.m3u8
 http://45.159.74.22/AmediaPremium/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="timeless-dizi" tvg-logo="https://iptvx.one/picons/timeless-dizi.png" group-title="📼 Сериалы", Dizi
 http://194.158.222.36:6086
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📼 Сериалы", Sony Sci-Fi
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📼 Сериалы" ,.sci-fi
 http://api.peers.tv/timeshift/sonyscifi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjExMTYxOTYsImlhdCI6MTc2MTAyOTc5NiwiY2lkIjo2LCJ1aWQiOjk1NjU3ODQ0MCwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.5rcl5QuVNpQtkuCjRkEsSfN1rcE30M3MymvmIzXmL-4&offset=10
 http://130.193.73.10:8937/play/a02q
 http://45.159.74.22/Kinoseriya/tracks-v1a1/mono.m3u8
@@ -1166,11 +1177,15 @@ http://95.156.76.230:33001/udp/230.4.34.66:1234
 #EXTINF:-1 tvg-id="start-world" group-title="📼 Сериалы", Start World HD
 #EXTVLCOPT:http-user-agent=SmartTV
 https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📼 Сериалы", ,САПФИР
+http://api.peers.tv/timeshift/sapfir_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjExMTYxOTYsImlhdCI6MTc2MTAyOTc5NiwiY2lkIjo2LCJ1aWQiOjk1NjU3ODQ0MCwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.5rcl5QuVNpQtkuCjRkEsSfN1rcE30M3MymvmIzXmL-4&offset=10
 #EXTINF:-1 tvg-id="sapfir" tvg-logo="https://iptvx.one/picons/sapfir.png" group-title="📼 Сериалы", Сапфир
 http://31.173.165.29:8000/play/a04g/index.m3u8
 http://109.200.130.123:7537/play/a028
 #EXTINF:-1 group-title="📼 Сериалы", Сапфир HD
 http://130.193.73.10:8937/play/a01e
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📼 Сериалы" ,КИНЕКО
+http://api.peers.tv/timeshift/kineko_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjExMTYxOTYsImlhdCI6MTc2MTAyOTc5NiwiY2lkIjo2LCJ1aWQiOjk1NjU3ODQ0MCwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.5rcl5QuVNpQtkuCjRkEsSfN1rcE30M3MymvmIzXmL-4&offset=10
 #EXTINF:-1 group-title="📼 Сериалы", Кинеко
 http://dmi3y-tv.ru/hls/CH_KINEKO.m3u8
 http://109.200.130.123:7537/play/a027
@@ -1185,8 +1200,8 @@ http://cdn2.ntv.ru/th_serial/playlist.m3u8
 http://cdn2.ntv.ru/th_hit/playlist.m3u8
 #EXTINF:-1 tvg-id="feniks-plus-kino" tvg-logo="https://iptvx.one/picons/feniks-plus-kino.png" group-title="📼 Сериалы", Феникс плюс кино (HD)
 rtmp://212.0.213.132//Fenix_Kino
-#EXTINF:-1 group-title="📼 Сериалы", Дорама
-http://ott-cdn.ucom.am/s95/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📼 Сериалы" ,Дорама
+http://api.peers.tv/timeshift/dorama/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjExMTYxOTYsImlhdCI6MTc2MTAyOTc5NiwiY2lkIjo2LCJ1aWQiOjk1NjU3ODQ0MCwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.5rcl5QuVNpQtkuCjRkEsSfN1rcE30M3MymvmIzXmL-4&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📼 Сериалы", Индия
 http://31.173.165.29:8000/play/a05x/index.m3u8
 #EXTINF:-1 group-title="📼 Сериалы", Лавстори
