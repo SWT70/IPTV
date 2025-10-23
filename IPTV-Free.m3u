@@ -433,27 +433,29 @@ https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852ca
 #EXTINF:0 tvg-id="ch117" tvg-name="НСТ"  tvg-logo="http://team.ga/images/chIcons/117.png"  timeshift="6", НСТ
 #EXTGRP:3. 📽️ Кинозал
 http://3.team.ga:80/ch117/index.m3u8?token=rl_krasnikov.v2_ZmAlaX6dOytOr34NxQY42tBGmg3o1wfTtHTkl-FEjv2BNIavK8tP5PmUh-0qjaFnyu9HrNTZ6p83kJTa1A
-http://ru3.team.ga:80/ch117/mono.m3u8?token=rl_kaspian74.v2_OSbmfx8awZIVN3dXxU1exkA30oDPGvgql4OIkAdEAn-Ga377LPCIomRa4xu8gFVX5DNu3cwk0YDR6ZJsGg
 #EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png" group-title="📽️ Кинозал", НСТ 
 http://178.212.71.253:8000/play/100/index.m3u8
 http://178.217.72.66:8080/NSTV/index.m3u8
 http://dmi3y-tv.ru/hls/CH_NST.m3u8
-#EXTINF:0 tvg-id="tvg_468" tvg-logo="http://team.ga/images/chIcons/468.png" timeshift="6", Страшное HD
+#EXTINF:0 tvg-id="ch468" tvg-name="Страшное HD"  tvg-logo="http://team.ga/images/chIcons/468.png"  timeshift="6", Страшное HD
 #EXTGRP:3. 📽️ Кинозал
-http://ru3.team.ga:80/ch468/mono.m3u8?token=rl_kaspian74.v2_0h1fMV8MR39bKD3XOvN6mTaWknp2ZJR7vXlrS4fS13kZ2tTkMAr7tZGTC-CvTDSaK9NUIeDX77Q9yBRE5w
+http://3.team.ga:80/ch468/index.m3u8?token=rl_krasnikov.v2_s9fB-8a9kETRJjJ2YfedA1HhLgegMBN9gMczK9RgazkKmBKMfLgqDciCHkMW27Ul7mVFvimSq0sx3Cud_w
 #EXTINF:-1 tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/STRASHNOEHD200.png" group-title="📽️ Кинозал",Страшное HD
 http://4afc0bdb.rossteleccom.net/iptv/BS6UNV8UB53SVB62EVQTCCUB/7247/index.m3u8
-#EXTINF:0 tvg-id="tvg_134" tvg-logo="http://team.ga/images/chIcons/134.png" timeshift="6", Шокирующее HD
+#EXTINF:0 tvg-id="ch134" tvg-name="Шокирующее HD"  tvg-logo="http://team.ga/images/chIcons/134.png"  timeshift="6", Шокирующее HD
 #EXTGRP:3. 📽️ Кинозал
-http://ru3.team.ga:80/ch134/mono.m3u8?token=rl_kaspian74.v2_JtKph9FbU0gaZnWOaRmT_niuLUeMWvs6cdzepwyoX_hla5DU7rFKReilnOlXF0AK4iMti_HN2X_U6a6PWQ
+http://3.team.ga:80/ch134/index.m3u8?token=rl_krasnikov.v2_EEK60ZYIqJmGa3NdsDP_zI85VoYwaRy4r5nwhLO6z78DC0h-tQuQCfKI_U-ql_Lar-UkN9j4P1pdoPcwAQ
 #EXTINF:-1 group-title="📽️ Кинозал" tvg-logo="http://srvru.play-x.ru/logos/shokiruyuschee.png",Шокирующее HD
 http://4afc0bdb.rossteleccom.net/iptv/BS6UNV8UB53SVB62EVQTCCUB/6299/index.m3u8
-#EXTINF:0 tvg-id="tvg_470" tvg-logo="http://team.ga/images/chIcons/470.png" timeshift="6", Scream HD
+#EXTINF:0 tvg-id="ch1970" tvg-name="Sky High Scream HD"  tvg-logo="http://team.ga/images/chIcons/1970.png"  timeshift="3", Sky High Scream HD
 #EXTGRP:3. 📽️ Кинозал
-http://ru3.team.ga:80/ch470/mono.m3u8?token=rl_kaspian74.v2_cw3iwFSKF3RMeHo-xY81ItnDpSmjgK9qk-OiDtd7_YWpAfr_O6t9JT_bvlIGSXFVpk2SVwYAw-igAPzw4Q
+http://3.team.ga:80/ch1970/index.m3u8?token=rl_krasnikov.v2_7n4l-JskWYXQFp87Y0CAM4a5m887gKT6y_DasfY7AJ4h3j5F0OXgLf6Ein3lN7rE5D4BDVJuHY1geg5vuuk
 #EXTINF:-1 CUID="948" number="122" tvg-id="iptvxone:scream" tvg-name="iptvxone:scream" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/scream.png" group-title="📽️ Кинозал",Scream HD
 http://4afc0bdb.rossteleccom.net/iptv/BS6UNV8UB53SVB62EVQTCCUB/20021/index.m3u8
 http://3.team.ga:80/ch470/index.m3u8?token=rl_krasnikov.v2_QS0B8EsVZivu5hKaZNua79Oo_Gm11D5-T8lroJ3yoKKh4jK7XCVvHQPf-2Fi_cXZamydaDYDsYDsZw0nCA
+#EXTINF:0 tvg-id="ch3367" tvg-name="Play-x Ужасы VHS HD"  tvg-logo="http://team.ga/images/chIcons/3367.png"  timeshift="3", Play-x Ужасы VHS HD
+#EXTGRP:3. 📽️ Кинозал
+http://3.team.ga:80/ch3367/index.m3u8?token=rl_krasnikov.v2_MaFqFTy_t5c2aNfk63xG41ZihFAPgIKJpvZYFbsH1cNL4SW_I3-IixXSOccLGcEUbfScnvAJS4riE12B9EA
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📽️ Кинозал"  ,Кинопремьера HD
 http://api.peers.tv/timeshift/premera/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjExMTYxOTYsImlhdCI6MTc2MTAyOTc5NiwiY2lkIjo2LCJ1aWQiOjk1NjU3ODQ0MCwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.5rcl5QuVNpQtkuCjRkEsSfN1rcE30M3MymvmIzXmL-4&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📽️ Кинозал"  ,КиноХит
