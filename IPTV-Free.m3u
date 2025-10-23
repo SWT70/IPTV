@@ -431,14 +431,18 @@ http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📽️ Кинозал", НСТ
-http://api.peers.tv/timeshift/nstv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjExMTYxOTYsImlhdCI6MTc2MTAyOTc5NiwiY2lkIjo2LCJ1aWQiOjk1NjU3ODQ0MCwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.5rcl5QuVNpQtkuCjRkEsSfN1rcE30M3MymvmIzXmL-4&offset=10
+#EXTINF:0 tvg-id="tvg_117" tvg-logo="http://team.ga/images/chIcons/117.png" timeshift="6", НСТ
+#EXTGRP:3. 📽️ Кинозал
+http://ru3.team.ga:80/ch117/mono.m3u8?token=rl_kaspian74.v2_OSbmfx8awZIVN3dXxU1exkA30oDPGvgql4OIkAdEAn-Ga377LPCIomRa4xu8gFVX5DNu3cwk0YDR6ZJsGg
 #EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png" group-title="📽️ Кинозал", НСТ 
 http://178.212.71.253:8000/play/100/index.m3u8
 http://178.217.72.66:8080/NSTV/index.m3u8
 http://dmi3y-tv.ru/hls/CH_NST.m3u8
 #EXTINF:-1 CUID="187" number="414" tvg-id="hlsproxy-624" tvg-name="tvteam_:Страшное HD" arc-timeshift="168" arc-time="168" catchup="shift" catchup-days="7" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/STRASHNOEHD200.png" group-title="📽️ Кинозал",Страшное HD
 http://4afc0bdb.rossteleccom.net/iptv/BS6UNV8UB53SVB62EVQTCCUB/7247/index.m3u8
+#EXTINF:0 tvg-id="tvg_468" tvg-logo="http://team.ga/images/chIcons/468.png" timeshift="6", Страшное HD
+#EXTGRP:3. 📽️ Кинозал
+http://ru3.team.ga:80/ch468/mono.m3u8?token=rl_kaspian74.v2_0h1fMV8MR39bKD3XOvN6mTaWknp2ZJR7vXlrS4fS13kZ2tTkMAr7tZGTC-CvTDSaK9NUIeDX77Q9yBRE5w
 #EXTINF:-1 group-title="📽️ Кинозал" tvg-logo="http://srvru.play-x.ru/logos/shokiruyuschee.png",Шокирующее HD
 http://4afc0bdb.rossteleccom.net/iptv/BS6UNV8UB53SVB62EVQTCCUB/6299/index.m3u8
 #EXTINF:0 tvg-id="tvg_134" tvg-logo="http://team.ga/images/chIcons/134.png" timeshift="6", Шокирующее HD
