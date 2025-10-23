@@ -440,12 +440,11 @@ http://dmi3y-tv.ru/hls/CH_NST.m3u8
 #EXTINF:-1 CUID="187" number="414" tvg-id="hlsproxy-624" tvg-name="tvteam_:Страшное HD" arc-timeshift="168" arc-time="168" catchup="shift" catchup-days="7" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/STRASHNOEHD200.png" group-title="📽️ Кинозал",Страшное HD
 http://srvru.play-x.ru/channel/48ad14b2/index.m3u8?q=7170e086faf29a20f6b11698846effd1
 http://srvru.play-x.ru/channel/19e348d/index.m3u8?q=7170e086faf29a20f6b11698846effd1
-#EXTINF:-1 group-title="📽️ Кинозал" tvg-logo="http://srvru.play-x.ru/logos/shokiruyuschee.png",Шокирующее
-http://srvru.play-x.ru/channel/47d8a9ff/index.m3u8?q=7170e086faf29a20f6b11698846effd1
-http://srvru.play-x.ru/channel/1798370c/index.m3u8?q=7170e086faf29a20f6b11698846effd1
-http://141.95.55.143/CH229/index.m3u8
+#EXTINF:-1 group-title="📽️ Кинозал" tvg-logo="http://srvru.play-x.ru/logos/shokiruyuschee.png",Шокирующее HD
+http://4afc0bdb.rossteleccom.net/iptv/BS6UNV8UB53SVB62EVQTCCUB/6299/index.m3u8
 #EXTINF:-1 CUID="948" number="122" tvg-id="iptvxone:scream" tvg-name="iptvxone:scream" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/scream.png" group-title="📽️ Кинозал",Scream HD
-http://srvru.play-x.ru/channel/20ea6d9b/index.m3u8?q=7170e086faf29a20f6b11698846effd1
+http://4afc0bdb.rossteleccom.net/iptv/BS6UNV8UB53SVB62EVQTCCUB/20021/index.m3u8
+http://3.team.ga:80/ch470/index.m3u8?token=rl_krasnikov.v2_QS0B8EsVZivu5hKaZNua79Oo_Gm11D5-T8lroJ3yoKKh4jK7XCVvHQPf-2Fi_cXZamydaDYDsYDsZw0nCA
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📽️ Кинозал"  ,Кинопремьера HD
 http://api.peers.tv/timeshift/premera/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjExMTYxOTYsImlhdCI6MTc2MTAyOTc5NiwiY2lkIjo2LCJ1aWQiOjk1NjU3ODQ0MCwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.5rcl5QuVNpQtkuCjRkEsSfN1rcE30M3MymvmIzXmL-4&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📽️ Кинозал"  ,КиноХит
@@ -585,6 +584,9 @@ http://hls.goodgame.ru:8080/hls/204717.m3u8
 http://130.193.73.10:8937/play/a022
 #EXTINF:-1 tvg-name="Cineman ATV " group-title="📽️ Кинозал", Cineman ATV 
 http://ott-cdn.ucom.am/s66/04.m3u8 
+#EXTINF:0 tvg-rec="0",VF Вестерн
+#EXTGRP:📽️ Кинозал
+http://4afc0bdb.rossteleccom.net/iptv/BS6UNV8UB53SVB62EVQTCCUB/31553/index.m3u8
 #EXTINF:-1 tvg-id="312-kino" tvg-logo="https://iptvx.one/picons/312-kino.png" group-title="📽️ Кинозал",312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 http://176.126.166.43:1935/live/312kino/chunklist_w164832369.m3u8
@@ -1147,6 +1149,9 @@ http://77.235.1.19:8000/play/a042/index.m3u8
 http://77.235.1.19:8000/play/a07k/index.m3u8
 #EXTINF:-1 group-title="📼 Сериалы", Start Air HD
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
+#EXTINF:0 tvg-rec="3",VF Сериалы Турции
+#EXTGRP:📼 Сериалы
+http://4afc0bdb.rossteleccom.net/iptv/BS6UNV8UB53SVB62EVQTCCUB/9123/index.m3u8
 #EXTINF:-1 group-title="📼 Сериалы", Киносерия
 http://iptv46.mcx-ix.ru:8077/mnogo-tv/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=kinoseria
@@ -2354,7 +2359,8 @@ https://river-1.rutube.ru/hls-vod/vUeYKPtU5r-8nIHGua9aIg/1761602152/1790/0x5000c
 https://river-1.rutube.ru/hls-vod/EfZXIpvp5HlEtRhwJDSh-Q/1761602153/1788/0x5000c500c939412d/954d4f0b6c9640eea3b9d0daff375899.mp4.m3u8?i=3840x2160_12765
 #EXTINF:-1 group-title="⚡ 4K Relax" tvg-logo="https://pic.rutube.ru/video/8a/8f/8a8fb71bed7423746a80654fc5ba541e.jpg", Лес В 4К
 https://river-1.rutube.ru/hls-vod/ZGUCtEeciVuvI5Ld1oPgBQ/1761602155/1846/0x5000c500db17284f/3a14e22cc0b24da0b4c9994cfbbfff0a.mp4.m3u8?i=3840x2160_15561
-
+#EXTINF:-1 group-title="⚡ 4K Relax", Underwater 4K
+https://dt9g97js2xsv9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rfve7l4mp37ko/SONOS45.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US700012OU
 
 #EXTINF:-1 tvg-id="avtoradio" tvg-logo="https://iptvx.one/picons/avtoradio.png" group-title="📻 Радио",Авторадио
 http://ic7.101.ru:8000/v3_1
