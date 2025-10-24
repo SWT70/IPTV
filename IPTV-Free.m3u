@@ -430,11 +430,16 @@ http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://iptvx.one/picons/solovjinypomiot.png" group-title="📺 Общероссийские",Соловьев.Live HD
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 
+
+
+
 #EXTINF:0 tvg-id="ch117" tvg-name="НСТ"  tvg-logo="http://team.ga/images/chIcons/117.png"  timeshift="6", НСТ
 #EXTGRP:3. 📽️ Кинозал
 http://3.team.ga:80/ch117/index.m3u8?token=rl_krasnikov.v2_ZmAlaX6dOytOr34NxQY42tBGmg3o1wfTtHTkl-FEjv2BNIavK8tP5PmUh-0qjaFnyu9HrNTZ6p83kJTa1A
 #EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png" group-title="📽️ Кинозал", НСТ 
-http://178.212.71.253:8000/play/100/index.m3u8
+http://vod.tuva.ru/nst/index.m3u8
+http://178.217.72.72/NSTV/index.m3u8
+http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 http://178.217.72.66:8080/NSTV/index.m3u8
 http://dmi3y-tv.ru/hls/CH_NST.m3u8
 #EXTINF:0 tvg-id="ch468" tvg-name="Страшное HD"  tvg-logo="http://team.ga/images/chIcons/468.png"  timeshift="6", Страшное HD
@@ -447,6 +452,9 @@ http://4afc0bdb.rossteleccom.net/iptv/BS6UNV8UB53SVB62EVQTCCUB/7247/index.m3u8
 http://3.team.ga:80/ch134/index.m3u8?token=rl_krasnikov.v2_EEK60ZYIqJmGa3NdsDP_zI85VoYwaRy4r5nwhLO6z78DC0h-tQuQCfKI_U-ql_Lar-UkN9j4P1pdoPcwAQ
 #EXTINF:-1 group-title="📽️ Кинозал" tvg-logo="http://srvru.play-x.ru/logos/shokiruyuschee.png",Шокирующее HD
 http://4afc0bdb.rossteleccom.net/iptv/BS6UNV8UB53SVB62EVQTCCUB/6299/index.m3u8
+#EXTINF:0 tvg-id="ch470" tvg-name="Scream HD"  tvg-logo="http://team.ga/images/chIcons/470.png"  timeshift="6", Scream HD
+#EXTGRP:3. 📽️ Кинозал
+http://3.team.ga:80/ch470/index.m3u8?token=rl_krasnikov.v2_QS0B8EsVZivu5hKaZNua79Oo_Gm11D5-T8lroJ3yoKKh4jK7XCVvHQPf-2Fi_cXZamydaDYDsYDsZw0nCA
 #EXTINF:0 tvg-id="ch1970" tvg-name="Sky High Scream HD"  tvg-logo="http://team.ga/images/chIcons/1970.png"  timeshift="3", Sky High Scream HD
 #EXTGRP:3. 📽️ Кинозал
 http://3.team.ga:80/ch1970/index.m3u8?token=rl_krasnikov.v2_7n4l-JskWYXQFp87Y0CAM4a5m887gKT6y_DasfY7AJ4h3j5F0OXgLf6Ein3lN7rE5D4BDVJuHY1geg5vuuk
