@@ -432,7 +432,9 @@ https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852ca
 
 
 
-
+#EXTINF:-1 group-title="Кино" tvg-id="hlsproxy-344" tvg-logo="http://srvru.play-x.ru/logos/nastoyaschee-strashnoe.png",НСТ
+#EXTGRP: 📽️ Кинозал
+http://srvru.play-x.ru/channel/77a05b91/index.m3u8?q=7170e086faf29a20f6b11698846effd1
 #EXTINF:0 tvg-id="ch117" tvg-name="НСТ"  tvg-logo="http://team.ga/images/chIcons/117.png"  timeshift="6", НСТ
 #EXTGRP:3. 📽️ Кинозал
 http://3.team.ga:80/ch117/index.m3u8?token=rl_krasnikov.v2_ZmAlaX6dOytOr34NxQY42tBGmg3o1wfTtHTkl-FEjv2BNIavK8tP5PmUh-0qjaFnyu9HrNTZ6p83kJTa1A
@@ -452,6 +454,8 @@ http://4afc0bdb.rossteleccom.net/iptv/BS6UNV8UB53SVB62EVQTCCUB/7247/index.m3u8
 http://3.team.ga:80/ch134/index.m3u8?token=rl_krasnikov.v2_EEK60ZYIqJmGa3NdsDP_zI85VoYwaRy4r5nwhLO6z78DC0h-tQuQCfKI_U-ql_Lar-UkN9j4P1pdoPcwAQ
 #EXTINF:-1 group-title="📽️ Кинозал" tvg-logo="http://srvru.play-x.ru/logos/shokiruyuschee.png",Шокирующее HD
 http://4afc0bdb.rossteleccom.net/iptv/BS6UNV8UB53SVB62EVQTCCUB/6299/index.m3u8
+#EXTINF:-1 CUID="948" number="122" tvg-id="iptvxone:scream" tvg-name="iptvxone:scream" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/scream.png" group-title="📽️ Кинозал",Scream HD
+http://srvru.play-x.ru/channel/20ea6d9b/index.m3u8?q=7170e086faf29a20f6b11698846effd1
 #EXTINF:0 tvg-id="ch470" tvg-name="Scream HD"  tvg-logo="http://team.ga/images/chIcons/470.png"  timeshift="6", Scream HD
 #EXTGRP:3. 📽️ Кинозал
 http://3.team.ga:80/ch470/index.m3u8?token=rl_krasnikov.v2_QS0B8EsVZivu5hKaZNua79Oo_Gm11D5-T8lroJ3yoKKh4jK7XCVvHQPf-2Fi_cXZamydaDYDsYDsZw0nCA
