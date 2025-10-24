@@ -452,15 +452,18 @@ http://4afc0bdb.rossteleccom.net/iptv/BS6UNV8UB53SVB62EVQTCCUB/7247/index.m3u8
 http://3.team.ga:80/ch134/index.m3u8?token=rl_krasnikov.v2_EEK60ZYIqJmGa3NdsDP_zI85VoYwaRy4r5nwhLO6z78DC0h-tQuQCfKI_U-ql_Lar-UkN9j4P1pdoPcwAQ
 #EXTINF:-1 group-title="📽️ Кинозал" tvg-logo="http://srvru.play-x.ru/logos/shokiruyuschee.png",Шокирующее HD
 http://4afc0bdb.rossteleccom.net/iptv/BS6UNV8UB53SVB62EVQTCCUB/6299/index.m3u8
+#EXTINF:0 tvg-rec="0",Scream HD
+#EXTGRP:3. 📽️ Кинозал
+http://gwerdv433vr.otttv.pw/iptv/DZWL85QKSY8Q55/20021/index.m3u8
 #EXTINF:0 tvg-id="ch470" tvg-name="Scream HD"  tvg-logo="http://team.ga/images/chIcons/470.png"  timeshift="6", Scream HD
 #EXTGRP:3. 📽️ Кинозал
+http://3.team.ga:80/ch470/index.m3u8?token=rl_krasnikov.v2_QS0B8EsVZivu5hKaZNua79Oo_Gm11D5-T8lroJ3yoKKh4jK7XCVvHQPf-2Fi_cXZamydaDYDsYDsZw0nCA
+#EXTINF:-1 CUID="948" number="122" tvg-id="iptvxone:scream" tvg-name="iptvxone:scream" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/scream.png" group-title="📽️ Кинозал",Scream HD
+http://4afc0bdb.rossteleccom.net/iptv/BS6UNV8UB53SVB62EVQTCCUB/20021/index.m3u8
 http://3.team.ga:80/ch470/index.m3u8?token=rl_krasnikov.v2_QS0B8EsVZivu5hKaZNua79Oo_Gm11D5-T8lroJ3yoKKh4jK7XCVvHQPf-2Fi_cXZamydaDYDsYDsZw0nCA
 #EXTINF:0 tvg-id="ch1970" tvg-name="Sky High Scream HD"  tvg-logo="http://team.ga/images/chIcons/1970.png"  timeshift="3", Sky High Scream HD
 #EXTGRP:3. 📽️ Кинозал
 http://3.team.ga:80/ch1970/index.m3u8?token=rl_krasnikov.v2_7n4l-JskWYXQFp87Y0CAM4a5m887gKT6y_DasfY7AJ4h3j5F0OXgLf6Ein3lN7rE5D4BDVJuHY1geg5vuuk
-#EXTINF:-1 CUID="948" number="122" tvg-id="iptvxone:scream" tvg-name="iptvxone:scream" arc-timeshift="0" arc-time="0" catchup="shift" catchup-days="0" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/scream.png" group-title="📽️ Кинозал",Scream HD
-http://4afc0bdb.rossteleccom.net/iptv/BS6UNV8UB53SVB62EVQTCCUB/20021/index.m3u8
-http://3.team.ga:80/ch470/index.m3u8?token=rl_krasnikov.v2_QS0B8EsVZivu5hKaZNua79Oo_Gm11D5-T8lroJ3yoKKh4jK7XCVvHQPf-2Fi_cXZamydaDYDsYDsZw0nCA
 #EXTINF:0 tvg-id="ch3367" tvg-name="Play-x Ужасы VHS HD"  tvg-logo="http://team.ga/images/chIcons/3367.png"  timeshift="3", Play-x Ужасы VHS HD
 #EXTGRP:3. 📽️ Кинозал
 http://3.team.ga:80/ch3367/index.m3u8?token=rl_krasnikov.v2_MaFqFTy_t5c2aNfk63xG41ZihFAPgIKJpvZYFbsH1cNL4SW_I3-IixXSOccLGcEUbfScnvAJS4riE12B9EA
