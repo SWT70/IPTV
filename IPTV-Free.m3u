@@ -92,6 +92,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
 http://3.team.ga:80/ch612/index.m3u8?token=rl_krasnikov.v2_WrhLPyd3LPDWIAagBZuCWOfwgVmxJ7POf4NxoutPXFXPH-rHBzWRb-Y6ARAeKrk2IffLitymESC3FUQyOA
 #EXTINF:-1 tvg-id="ntv-pravo" tvg-logo="https://iptvx.one/picons/ntv-pravo.png" group-title="📺 Общероссийские", НТВ Право
 http://iptv46.mcx-ix.ru:8077/ntv_pravo/index.m3u8
+http://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
 http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 http://dmi3y-tv.ru/hls/CH_NTVPRAVO.m3u8
 
