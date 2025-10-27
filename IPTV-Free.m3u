@@ -445,7 +445,7 @@ http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 http://178.217.72.66:8080/NSTV/index.m3u8
 http://dmi3y-tv.ru/hls/CH_NST.m3u8
 
-#EXTINF:0 tvg-rec="3",Страшное HD
+#EXTINF:0 tvg-rec="7",Страшное HD
 #EXTGRP:📽️ Кинозал
 http://6293d53d.ottolok.net/iptv/K4FECGTMVS8BKF/7247/index.m3u8
 #EXTINF:-1 tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/STRASHNOEHD200.png" group-title="📽️ Кинозал",Страшное HD
@@ -462,7 +462,7 @@ http://4afc0bdb.rossteleccom.net/iptv/BS6UNV8UB53SVB62EVQTCCUB/6299/index.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал", Шокирующее (+3)
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_HD1_3
 
-#EXTINF:0 tvg-rec="3",Scream HD
+#EXTINF:0 tvg-rec="7",Scream HD
 #EXTGRP:📽️ Кинозал
 http://6293d53d.ottolok.net/iptv/K4FECGTMVS8BKF/20021/index.m3u8
 #EXTINF:0 tvg-id="ch470" tvg-name="Scream HD"  tvg-logo="http://team.ga/images/chIcons/470.png"  timeshift="6", Scream HD
