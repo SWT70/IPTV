@@ -439,6 +439,8 @@ http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 http://178.217.72.66:8080/NSTV/index.m3u8
 http://dmi3y-tv.ru/hls/CH_NST.m3u8
 
+#EXTINF:-1 group-title="📽️ Кинозал" tvg-logo="http://epg.cdntv.online/img/420.png" tvg-shift="0" tvg-id="hlsproxy-624",Страшное HD
+http://217.154.10.99:2020/channel/42c15d29/index.m3u8?q=618051a4e8fb85be64d971b12222208c
 #EXTINF:-1 tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/STRASHNOEHD200.png" group-title="📽️ Кинозал",Страшное HD
 http://4afc0bdb.rossteleccom.net/iptv/BS6UNV8UB53SVB62EVQTCCUB/7247/index.m3u8
 http://6293d53d.ottolok.net/iptv/K4FECGTMVS8BKF/7247/index.m3u8
@@ -579,7 +581,7 @@ http://176.126.166.43:1935/live/312kino/chunklist_w164832369.m3u8
 http://176.126.166.43:1935/live/312musik/chunklist_w1516016500.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал", VHS-ка
 http://95.66.188.74/VHS/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📽️ Кинозал" ,FILMBOX
+#EXTINF:-1 group-title="📽️ Кинозал" ,FILMBOX
 http://139.28.255.188:8080/FilmBox/index.m3u8
 #EXTINF:-1 tvg-id="kino-24" tvg-logo="https://iptvx.one/picons/kino-24.png" group-title="📽️ Кинозал",Kino 24
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
@@ -1650,8 +1652,7 @@ http://srvru.play-x.ru/channel/7791ab5e/index.m3u8?q=7170e086faf29a20f6b11698846
 http://109.75.59.241:8017/TLC/index.m3u8
 #EXTINF:-1 tvg-id="tlc" group-title="🌏 Познавательные",TLC HD
 http://srvru.play-x.ru/channel/60b5b0fe/index.m3u8?q=7170e086faf29a20f6b11698846effd1
-http://srvru.play-x.ru/channel/4fc1d639/index.m3u8?q=7170e086faf29a20f6b11698846effd1
-http://5.188.159.128:8070/TLC/index.m3u8
+http://217.154.10.99:2020/channel/n138c86bd/index.m3u8?q=618051a4e8fb85be64d971b12222208c
 #EXTINF:-1 group-title="🌏 Познавательные" tvg-id="" tvg-logo="http://epg.it999.ru/img2/614.png",Кухня ТВ
 http://45.159.74.22/KukhnyaTv/tracks-v1a1/mono.m3u8
 
