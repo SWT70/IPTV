@@ -439,8 +439,7 @@ http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 http://178.217.72.66:8080/NSTV/index.m3u8
 http://dmi3y-tv.ru/hls/CH_NST.m3u8
 
-#EXTINF:-1 group-title="📽️ Кинозал" tvg-logo="http://epg.cdntv.online/img/420.png" tvg-shift="0" tvg-id="hlsproxy-624",Страшное HD
-http://217.154.10.99:2020/channel/42c15d29/index.m3u8?q=618051a4e8fb85be64d971b12222208c
+
 #EXTINF:-1 tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/STRASHNOEHD200.png" group-title="📽️ Кинозал",Страшное HD
 http://4afc0bdb.rossteleccom.net/iptv/BS6UNV8UB53SVB62EVQTCCUB/7247/index.m3u8
 http://6293d53d.ottolok.net/iptv/K4FECGTMVS8BKF/7247/index.m3u8
@@ -540,7 +539,7 @@ http://178.212.71.253:8000/play/78/index.m3u8
 https://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал", КиноТВ (+4)
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📽️ Кинозал" ,TV XXI
+#EXTINF:-1 group-title="📽️ Кинозал" ,TV XXI
 http://178.217.72.72/TV_XXI/index.m3u8
 http://217.21.34.160:38007/tv-xxi/index.m3u8
 http://46.8.46.14/TV21/index.m3u8
@@ -556,7 +555,7 @@ http://46.8.46.14/Nashe_Lubimoe_Kino/index.m3u8
 https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
 #EXTINF:-1 tvg-id="hollywood" tvg-logo="https://iptvx.one/picons/hollywood.png" group-title="📽️ Кинозал",Hollywood HD 
 http://194.32.242.245/hollywoodhd/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📽️ Кинозал" ,Иллюзион+
+#EXTINF:-1 group-title="📽️ Кинозал" ,Иллюзион+
 http://91.194.191.241:8081/chid71/tracks-v1a1/mono.m3u8
 http://tv.ttk.mx:9028
 #EXTINF:-1 tvg-id="premialnoe-hd" tvg-logo="https://iptvx.one/picons/premialnoe-hd.png" group-title="📽️ Кинозал", Премиальное HD
@@ -637,7 +636,7 @@ http://srvru.play-x.ru/channel/n1d557842/index.m3u8?q=7170e086faf29a20f6b1169884
 #EXTINF:0 tvg-id="triller_4k" tvg-name="Clarity4K Триллер" tvg-logo="https://play-x.ru/logo.png" group-title="📽️ Кинозалы 1",Clarity4K Триллер
 #EXTGRP: 📽️ Кинозалы 1
 http://srvru.play-x.ru/channel/2c889cb8/index.m3u8?q=7170e086faf29a20f6b11698846effd1
-#EXTINF:0 tvg-id="adventures_4K" tvg-name="Clarity4K Приключения" tvg-logo="https://play-x.ru/logo.png" group-title="📽️ Кинозалы 1" catchup="flussonic" catchup-days="3",Clarity4K Приключения
+#EXTINF:0 tvg-id="adventures_4K" tvg-name="Clarity4K Приключения" tvg-logo="https://play-x.ru/logo.png" group-title="📽️ Кинозалы 1" ,Clarity4K Приключения
 #EXTGRP: 📽️ Кинозалы 1
 http://srvru.play-x.ru/channel/4f720b63/index.m3u8?q=7170e086faf29a20f6b11698846effd1
 #EXTINF:0 tvg-id="movie_90s_4k" tvg-name="Clarity4k КиноФраншизы" tvg-logo="https://play-x.ru/logo.png" group-title="📽️ Кинозалы 1",Clarity4k КиноФраншизы
@@ -737,7 +736,7 @@ http://srvru.play-x.ru/channel/n590936b7/index.m3u8?q=7170e086faf29a20f6b1169884
 #EXTINF:0 tvg-id="Walt_Disney_4k" tvg-name="Clarity4K Walt Disney" tvg-logo="https://play-x.ru/logo.png" group-title="📽️ Кинозалы 1",Clarity4K Walt Disney
 #EXTGRP: 📽️ Кинозалы 1
 http://srvru.play-x.ru/channel/6cf142f5/index.m3u8?q=7170e086faf29a20f6b11698846effd1
-#EXTINF:0 tvg-id="anime" tvg-name="Clarity4k Anime アニメ" tvg-logo="https://play-x.ru/logo.png" group-title="📽️ Кинозалы 1" catchup="flussonic" catchup-days="3",Clarity4k Anime
+#EXTINF:0 tvg-id="anime" tvg-name="Clarity4k Anime アニメ" tvg-logo="https://play-x.ru/logo.png" group-title="📽️ Кинозалы 1" ,Clarity4k Anime
 #EXTGRP: 📽️ Кинозалы 1
 http://srvru.play-x.ru/channel/n5c6dacc1/index.m3u8?q=7170e086faf29a20f6b11698846effd1
 #EXTINF:0 tvg-id="gamefilm_4k" tvg-name="Clarity4k Game Film" tvg-logo="https://play-x.ru/logo.png" group-title="📽️ Кинозалы 1",Clarity4k GameFilm 🎮
@@ -1048,7 +1047,7 @@ http://178.212.71.253:8000/play/42/index.m3u8
 http://130.193.73.10:8937/play/a03n
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Ruskiy_roman_HD#EXTINF:-1 group-title="📹 Русский кинозал", Наше новое кино 
 http://iptv46.mcx-ix.ru:8077/nashe-novoe-kino/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📹 Русский кинозал" ,TV1000 Русское кино
+#EXTINF:-1 group-title="📹 Русский кинозал" ,TV1000 Русское кино
 http://109.248.236.51/viju_tv1000_russkoe/mono.m3u8
 #EXTINF:-1 tvg-id="russkaya-komedia" tvg-logo="https://iptvx.one/picons/russkaya-komedia.png" group-title="📹 Русский кинозал",Комедия
 http://130.193.73.10:8937/play/a03k
@@ -1116,9 +1115,9 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Lovestory
 #EXTINF:-1 tvg-id="start-air" group-title="📼 Сериалы", Start Air HD
 #EXTVLCOPT:http-user-agent=SmartTV
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📼 Сериалы" ,Amedia 1
+#EXTINF:-1 group-title="📼 Сериалы" ,Amedia 1
 http://130.193.73.10:8937/play/a02m
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📼 Сериалы" ,Amedia 2
+#EXTINF:-1 group-title="📼 Сериалы" ,Amedia 2
 http://sc.id-tv.kz/A2.m3u8
 http://130.193.73.10:8937/play/a02n
 #EXTINF:-1 tvg-id="amedia-hit" tvg-logo="https://iptvx.one/picons/amedia-hit.png" group-title="📼 Сериалы", Amedia Hit
@@ -1127,12 +1126,12 @@ http://45.159.74.22/Nauka/tracks-v1a1/mono.m3u8
 http://109.248.236.51/amedia_hit_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📼 Сериалы", Amedia Hit HD
 http://109.248.236.51/amedia_hit_hd/mono.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📼 Сериалы" ,Amedia Premium HD
+#EXTINF:-1 group-title="📼 Сериалы" ,Amedia Premium HD
 http://195.18.23.20:8000/play/3/index.m3u8
 http://45.159.74.22/AmediaPremium/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="timeless-dizi" tvg-logo="https://iptvx.one/picons/timeless-dizi.png" group-title="📼 Сериалы", Dizi
 http://194.158.222.36:6086
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📼 Сериалы" ,.sci-fi
+#EXTINF:-1 group-title="📼 Сериалы" ,.sci-fi
 http://130.193.73.10:8937/play/a02q
 http://45.159.74.22/Kinoseriya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="start-world" tvg-logo="https://iptvx.one/picons/start-world.png" group-title="📼 Сериалы", Start World
@@ -1159,9 +1158,9 @@ http://cdn2.ntv.ru/th_serial/playlist.m3u8
 http://cdn2.ntv.ru/th_hit/playlist.m3u8
 #EXTINF:-1 tvg-id="feniks-plus-kino" tvg-logo="https://iptvx.one/picons/feniks-plus-kino.png" group-title="📼 Сериалы", Феникс плюс кино (HD)
 rtmp://212.0.213.132//Fenix_Kino
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📼 Сериалы" ,Дорама
+#EXTINF:-1 group-title="📼 Сериалы" ,Дорама
 http://tvip.btk.teleos.ru:8081/chid516/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="📼 Сериалы", Индия
+#EXTINF:-1 group-title="📼 Сериалы", Индия
 http://31.173.165.29:8000/play/a05x/index.m3u8
 #EXTINF:-1 group-title="📼 Сериалы", Лавстори
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Lovestory
@@ -1191,7 +1190,7 @@ http://3.team.ga:80/ch3260/index.m3u8?token=rl_krasnikov.v2_LrW9TSBow-gfQ10ZoSoh
 https://132544.edgevideo.ru/streams/132544_931352/132544720/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Чип и Дейл.png" group-title="👶 Детские",Чип и Дейл
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 4.4; Mobile) YaBrowser/24.4
-http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+
 #EXTINF:-1 tvg-id="da-vinci" tvg-logo="https://iptvx.one/picons/da-vinci.png" group-title="👶 Детские",Da Vinci
 http://130.193.73.10:8937/play/a014
 #EXTINF:-1 tvg-id="jimjam" tvg-logo="https://epg.iptvx.one/picons/jimjam.png" group-title="👶 Детские",JimJam
@@ -1234,39 +1233,25 @@ http://178.124.179.122:8088/Malish/index.m3u8
 http://195.18.23.20:8000/play/2/index.m3u8
 #EXTINF:-1 group-title="👶 Детские", Тооку ТВ HD
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="👶 Детские" ,Ani
-http://api.peers.tv/timeshift/ani/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjE0MTg1OTUsImlhdCI6MTc2MTMzMjE5NSwiY2lkIjo2LCJ1aWQiOjk1Nzk2OTU2NSwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.RcRvjwUDJ3PNsxTeTtSmfbTOPC4zchNkQ2yQOI-vrv4&offset=10
 #EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="👶 Детские",Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigh.m3u8
 http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
 #EXTINF:-1 group-title="👶 Детские", Fox Kids
 http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="👶 Детские" ,Gulli Girl
-http://api.peers.tv/timeshift/gulli_girl/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjE0MTg1OTUsImlhdCI6MTc2MTMzMjE5NSwiY2lkIjo2LCJ1aWQiOjk1Nzk2OTU2NSwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.RcRvjwUDJ3PNsxTeTtSmfbTOPC4zchNkQ2yQOI-vrv4&offset=10
 #EXTINF:-1 group-title="👶 Детские", Gulli Girl
 http://130.193.73.10:8937/play/a00v
 #EXTINF:-1 group-title="👶 Детские", Kids TV
 http://31.173.165.29:8000/play/a03m/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="👶 Детские" ,Bolt HD
-http://api.peers.tv/timeshift/bolt_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjE0MTg1OTUsImlhdCI6MTc2MTMzMjE5NSwiY2lkIjo2LCJ1aWQiOjk1Nzk2OTU2NSwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.RcRvjwUDJ3PNsxTeTtSmfbTOPC4zchNkQ2yQOI-vrv4&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="👶 Детские" ,TiJi
-http://api.peers.tv/timeshift/tiji/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjE0MTg1OTUsImlhdCI6MTc2MTMzMjE5NSwiY2lkIjo2LCJ1aWQiOjk1Nzk2OTU2NSwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.RcRvjwUDJ3PNsxTeTtSmfbTOPC4zchNkQ2yQOI-vrv4&offset=10
 #EXTINF:-1 group-title="👶 Детские", TiJi
 http://130.193.73.10:8937/play/a05k
 #EXTINF:-1 tvg-id="pingvin-lolo" tvg-logo="https://iptvx.one/picons/pingvin-lolo.png" group-title="👶 Детские",Пингвин
 http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="👶 Детские" ,Рыжий
-http://api.peers.tv/timeshift/red/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjE0MTg1OTUsImlhdCI6MTc2MTMzMjE5NSwiY2lkIjo2LCJ1aWQiOjk1Nzk2OTU2NSwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.RcRvjwUDJ3PNsxTeTtSmfbTOPC4zchNkQ2yQOI-vrv4&offset=10
 #EXTINF:-1 tvg-id="ryzhy" tvg-logo="https://iptvx.one/picons/ryzhy.png" group-title="👶 Детские",Рыжий
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s57/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="👶 Детские" ,Радость моя
-http://api.peers.tv/timeshift/radost_moj/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjE0MTg1OTUsImlhdCI6MTc2MTMzMjE5NSwiY2lkIjo2LCJ1aWQiOjk1Nzk2OTU2NSwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.RcRvjwUDJ3PNsxTeTtSmfbTOPC4zchNkQ2yQOI-vrv4&offset=10
 #EXTINF:-1 tvg-id="radost-moya" tvg-logo="https://iptvx.one/picons/radost-moya.png" group-title="👶 Детские",Радость моя
 http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="👶 Детские" ,Смайлик ТВ
-http://hls.peers.tv/streaming/smayliktv/126/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjE0MTg1OTUsImlhdCI6MTc2MTMzMjE5NSwiY2lkIjo2LCJ1aWQiOjk1Nzk2OTU2NSwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.RcRvjwUDJ3PNsxTeTtSmfbTOPC4zchNkQ2yQOI-vrv4&offset=10
 #EXTINF:-1  tvg-id="smaylik-tv" tvg-logo="https://iptvx.one/picons/smaylik-tv.png" group-title="👶 Детские",Смайл ТВ
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
@@ -1276,23 +1261,11 @@ http://178.212.71.253:8000/play/112/index.m3u8
 #EXTINF:-1 group-title="👶 Детские",СТС Kids HD
 #EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
 http://31.148.48.15/STS_Kids_HD/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="👶 Детские" ,СТС Kids HD
-http://api.peers.tv/timeshift/sts_kids_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjE0MTg1OTUsImlhdCI6MTc2MTMzMjE5NSwiY2lkIjo2LCJ1aWQiOjk1Nzk2OTU2NSwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.RcRvjwUDJ3PNsxTeTtSmfbTOPC4zchNkQ2yQOI-vrv4&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="👶 Детские" ,В гостях у сказки
-http://api.peers.tv/timeshift/v_gostyah_u_skazki/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjE0MTg1OTUsImlhdCI6MTc2MTMzMjE5NSwiY2lkIjo2LCJ1aWQiOjk1Nzk2OTU2NSwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.RcRvjwUDJ3PNsxTeTtSmfbTOPC4zchNkQ2yQOI-vrv4&offset=10
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" group-title="👶 Детские",, В Гостях у Сказки
 http://91.194.191.241:8081/chid61/tracks-v1a1/mono.m3u8
 http://109.200.130.123:7537/play/a02m
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="👶 Детские" ,Уникум
-http://api.peers.tv/timeshift/forkids/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjE0MTg1OTUsImlhdCI6MTc2MTMzMjE5NSwiY2lkIjo2LCJ1aWQiOjk1Nzk2OTU2NSwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.RcRvjwUDJ3PNsxTeTtSmfbTOPC4zchNkQ2yQOI-vrv4&offset=10
 #EXTINF:-1 tvg-id="detsky" tvg-logo="https://iptvx.one/picons/unikum.png" group-title="👶 Детские",Уникум
 http://130.193.73.10:8937/play/a015
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="👶 Детские" ,Лёва
-http://api.peers.tv/timeshift/lyova/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjE0MTg1OTUsImlhdCI6MTc2MTMzMjE5NSwiY2lkIjo2LCJ1aWQiOjk1Nzk2OTU2NSwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.RcRvjwUDJ3PNsxTeTtSmfbTOPC4zchNkQ2yQOI-vrv4&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="👶 Детские" ,Советские мультфильмы
-http://api.peers.tv/timeshift/sovetskiemult/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjE0MTg1OTUsImlhdCI6MTc2MTMzMjE5NSwiY2lkIjo2LCJ1aWQiOjk1Nzk2OTU2NSwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.RcRvjwUDJ3PNsxTeTtSmfbTOPC4zchNkQ2yQOI-vrv4&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="👶 Детские" ,Солнце
-http://api.peers.tv/timeshift/solntse/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjE0MTg1OTUsImlhdCI6MTc2MTMzMjE5NSwiY2lkIjo2LCJ1aWQiOjk1Nzk2OTU2NSwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.RcRvjwUDJ3PNsxTeTtSmfbTOPC4zchNkQ2yQOI-vrv4&offset=10
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="👶 Детские",СОЛНЦЕ
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
@@ -1309,8 +1282,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
 #EXTINF:-1 group-title="👶 Детские", Карусель International 
 https://cdn2.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="👶 Детские" ,Карусель
-http://api.peers.tv/timeshift/karusel/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjE0MTg1OTUsImlhdCI6MTc2MTMzMjE5NSwiY2lkIjo2LCJ1aWQiOjk1Nzk2OTU2NSwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.RcRvjwUDJ3PNsxTeTtSmfbTOPC4zchNkQ2yQOI-vrv4&offset=10
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="👶 Детские",Карусель
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
@@ -1334,8 +1305,6 @@ http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные", Матч! HD
 http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="⚽ Спортивные" ,Матч! Игра
-http://api.peers.tv/timeshift/sport_2/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjE0MTg1OTUsImlhdCI6MTc2MTMzMjE5NSwiY2lkIjo2LCJ1aWQiOjk1Nzk2OTU2NSwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.RcRvjwUDJ3PNsxTeTtSmfbTOPC4zchNkQ2yQOI-vrv4&offset=10
 #EXTINF:-1 tvg-logo="http://1lot.tv/ch/12104.png" group-title="⚽ Спортивные", МАТЧ! Арена HD
 #EXTVLCOPT:http-referrer=https://bl.video.matchtv.ru/
 https://bl.video.matchtv.ru/media/start/free_71390440925/17_9a32d7c6e26c38cbf12eac3bdb76849c/d8cce72bad07fda5aaedf37638469aad/4828076680.m3u8
@@ -1348,8 +1317,6 @@ https://bl.video.matchtv.ru/media/start/free_71462918530/17_76666997491217f4514c
 http://31.210.208.171:8080/match_igra/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="⚽ Спортивные", Матч! Премьер
 http://178.212.71.253:8000/play/57/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="⚽ Спортивные" ,Матч! страна
-http://api.peers.tv/timeshift/match_nash_sport/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjE0MTg1OTUsImlhdCI6MTc2MTMzMjE5NSwiY2lkIjo2LCJ1aWQiOjk1Nzk2OTU2NSwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.RcRvjwUDJ3PNsxTeTtSmfbTOPC4zchNkQ2yQOI-vrv4&offset=10
 #EXTINF:-1 tvg-logo="http://1lot.tv/ch/8014.png" group-title="⚽ Спортивные",Матч! Страна HD
 #EXTVLCOPT:http-referrer=https://bl.video.matchtv.ru/
 https://bl.video.matchtv.ru/media/start/free_71245485715/17_72477605/282f0b5f2d94038f259b5e8493a3a4c7/4828076680.m3u8
@@ -1369,24 +1336,6 @@ http://45.11.139.43:8555/fut2/index.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные", Матч! Футбол 3
 http://185.57.68.33/110/mpegts
 http://185.57.68.33:80/110/index.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="⚽ Спортивные" ,Viasat Sport HD
-http://api.peers.tv/timeshift/viasat_sport_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjExMTYxOTYsImlhdCI6MTc2MTAyOTc5NiwiY2lkIjo2LCJ1aWQiOjk1NjU3ODQ0MCwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.5rcl5QuVNpQtkuCjRkEsSfN1rcE30M3MymvmIzXmL-4&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="⚽ Спортивные" ,Футбол HD
-http://api.peers.tv/timeshift/futbol_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjE0MTg1OTUsImlhdCI6MTc2MTMzMjE5NSwiY2lkIjo2LCJ1aWQiOjk1Nzk2OTU2NSwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.RcRvjwUDJ3PNsxTeTtSmfbTOPC4zchNkQ2yQOI-vrv4&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="⚽ Спортивные" ,Матч! Боец
-http://api.peers.tv/timeshift/boets/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjE0MTg1OTUsImlhdCI6MTc2MTMzMjE5NSwiY2lkIjo2LCJ1aWQiOjk1Nzk2OTU2NSwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.RcRvjwUDJ3PNsxTeTtSmfbTOPC4zchNkQ2yQOI-vrv4&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="⚽ Спортивные" ,KHL
-http://api.peers.tv/timeshift/khl/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjE0MTg1OTUsImlhdCI6MTc2MTMzMjE5NSwiY2lkIjo2LCJ1aWQiOjk1Nzk2OTU2NSwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.RcRvjwUDJ3PNsxTeTtSmfbTOPC4zchNkQ2yQOI-vrv4&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="⚽ Спортивные" ,KHL Prime HD
-http://api.peers.tv/timeshift/kxl_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjE0MTg1OTUsImlhdCI6MTc2MTMzMjE5NSwiY2lkIjo2LCJ1aWQiOjk1Nzk2OTU2NSwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.RcRvjwUDJ3PNsxTeTtSmfbTOPC4zchNkQ2yQOI-vrv4&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="⚽ Спортивные" ,MMA-TV.COM
-http://api.peers.tv/timeshift/mma_tv_com/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjE0MTg1OTUsImlhdCI6MTc2MTMzMjE5NSwiY2lkIjo2LCJ1aWQiOjk1Nzk2OTU2NSwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.RcRvjwUDJ3PNsxTeTtSmfbTOPC4zchNkQ2yQOI-vrv4&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="⚽ Спортивные" ,Мир Баскетбола
-http://api.peers.tv/timeshift/mir_basketbola/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjE0MTg1OTUsImlhdCI6MTc2MTMzMjE5NSwiY2lkIjo2LCJ1aWQiOjk1Nzk2OTU2NSwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.RcRvjwUDJ3PNsxTeTtSmfbTOPC4zchNkQ2yQOI-vrv4&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="⚽ Спортивные" ,Старт
-http://api.peers.tv/timeshift/start/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjE0MTg1OTUsImlhdCI6MTc2MTMzMjE5NSwiY2lkIjo2LCJ1aWQiOjk1Nzk2OTU2NSwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.RcRvjwUDJ3PNsxTeTtSmfbTOPC4zchNkQ2yQOI-vrv4&offset=10
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="⚽ Спортивные" ,Русский Экстрим
-http://api.peers.tv/timeshift/ru_extrem/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjE0MTg1OTUsImlhdCI6MTc2MTMzMjE5NSwiY2lkIjo2LCJ1aWQiOjk1Nzk2OTU2NSwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.RcRvjwUDJ3PNsxTeTtSmfbTOPC4zchNkQ2yQOI-vrv4&offset=10
 #EXTINF:-1 group-title="⚽ Спортивные" tvg-id="Eurosport 1 HD"  tvg-logo="http://1lot.tv/ch/7206.png",Eurosport 1
 http://45.159.74.22/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="belarus5" tvg-logo="https://iptvx.one/picons/belarus5hd.png" group-title="⚽ Спортивные", Беларусь 5 (HD)
@@ -1432,8 +1381,6 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Muz_Perv
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 group-title="🎵 Музыкальные", Телеканал Радио Страна ФМ
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="🎵 Музыкальные" ,ТНТ Music HD
-http://api.peers.tv/timeshift/tnt_music/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjE0MTg1OTUsImlhdCI6MTc2MTMzMjE5NSwiY2lkIjo2LCJ1aWQiOjk1Nzk2OTU2NSwicmVnIjpmYWxzZSwiaXAiOjc2MTI1Mjg2MCwiYWR1bHQiOmZhbHNlfQ.RcRvjwUDJ3PNsxTeTtSmfbTOPC4zchNkQ2yQOI-vrv4&offset=10
 #EXTINF:-1 group-title="🎵 Музыкальные", ТНТ Music HD
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="shanson-tv" group-title="🎵 Музыкальные", Шансон-ТВ 
