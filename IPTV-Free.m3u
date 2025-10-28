@@ -438,11 +438,13 @@ http://178.217.72.72/NSTV/index.m3u8
 http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 http://178.217.72.66:8080/NSTV/index.m3u8
 http://dmi3y-tv.ru/hls/CH_NST.m3u8
+http://178.212.71.253:8000/play/100/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/STRASHNOEHD200.png" group-title="📽️ Кинозал",Страшное HD
 http://4afc0bdb.rossteleccom.net/iptv/BS6UNV8UB53SVB62EVQTCCUB/7247/index.m3u8
 http://6293d53d.ottolok.net/iptv/K4FECGTMVS8BKF/7247/index.m3u8
+https://blueberry.uvs.onlinetv.link/cdn_origin2/strashnoe_hd/chunks.m3u8
 
 #EXTINF:-1 group-title="📽️ Кинозал" tvg-logo="http://srvru.play-x.ru/logos/shokiruyuschee.png",Шокирующее HD
 http://4afc0bdb.rossteleccom.net/iptv/BS6UNV8UB53SVB62EVQTCCUB/6299/index.m3u8
@@ -919,35 +921,33 @@ http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv-JFmQWO4ln-WckFd8N6rHI/m3u8
 http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv2xdypzM8wFnIQl73Odc4iY/m3u8
 
 #EXTINF:-1 xui-id="10519" tvg-id="" tvg-name="Fresh Cinema" tvg-logo="" group-title="📽️ Кинозалы 1",Fresh Cinema
-http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/19287/index.m3u8
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvy9MyfYATgJBs50Rq_G1sEw/m3u8
 #EXTINF:-1 xui-id="10520" tvg-id="" tvg-name="Fresh Kids" tvg-logo="" group-title="📽️ Кинозалы 1",Fresh Kids
-http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/19288/index.m3u8
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv1uviDICO0U0QqeiF2Tw5II/m3u8
 #EXTINF:-1 xui-id="10521" tvg-id="" tvg-name="Fresh Comedy" tvg-logo="" group-title="📽️ Кинозалы 1",Fresh Comedy
-http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/19289/index.m3u8
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv_kbl9USUymUabnMB_DNsFU/m3u8
 #EXTINF:-1 xui-id="10522" tvg-id="" tvg-name="Fresh Premiere" tvg-logo="" group-title="📽️ Кинозалы 1",Fresh Premiere
-http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/19290/index.m3u8
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv9fTHx6usythMQMP9rSvVhQ/m3u8
 #EXTINF:-1 xui-id="10523" tvg-id="" tvg-name="Fresh Family" tvg-logo="" group-title="📽️ Кинозалы 1",Fresh Family
-http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/19291/index.m3u8
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvxYpW0tmQCgZId9S5AvVHXg/m3u8
 #EXTINF:-1 xui-id="10524" tvg-id="" tvg-name="Fresh Rating" tvg-logo="" group-title="📽️ Кинозалы 1",Fresh Rating
-http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/19292/index.m3u8
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv9XZDJsWiO9NBhY-o9jDMBM/m3u8
 #EXTINF:-1 xui-id="10525" tvg-id="" tvg-name="Fresh VHS" tvg-logo="" group-title="📽️ Кинозалы 1",Fresh VHS
-http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/19293/index.m3u8
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv-GE-VuaB5lB-DiIWRjgNFk/m3u8
 #EXTINF:-1 xui-id="10526" tvg-id="" tvg-name="Fresh Fantastic" tvg-logo="" group-title="📽️ Кинозалы 1",Fresh Fantastic
-http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/19294/index.m3u8
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv1L_DM9rYYp8RVH3K99Boso/m3u8
 #EXTINF:-1 xui-id="10527" tvg-id="" tvg-name="Fresh Series" tvg-logo="" group-title="📽️ Кинозалы 1",Fresh Series
-http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/19295/index.m3u8
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv550oirWaYBXG8G6zL_8IR4/m3u8
 #EXTINF:-1 xui-id="10528" tvg-id="" tvg-name="Fresh Horror" tvg-logo="" group-title="📽️ Кинозалы 1",Fresh Horror
-http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/19296/index.m3u8
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv5_ir7QUYOohVqI8RxutCCs/m3u8
 #EXTINF:-1 xui-id="10529" tvg-id="" tvg-name="Fresh Adventure" tvg-logo="" group-title="📽️ Кинозалы 1",Fresh Adventure
-http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/19297/index.m3u8
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvwWIMtUbVX8RxgY_MRQg9qM/m3u8
 #EXTINF:-1 xui-id="10530" tvg-id="" tvg-name="Fresh Romantic" tvg-logo="" group-title="📽️ Кинозалы 1",Fresh Romantic
-http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/19298/index.m3u8
-#EXTINF:-1 xui-id="10531" tvg-id="" tvg-name="Fresh Russian" tvg-logo="" group-title="📽️ Кинозалы 1",Fresh Russian
-http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/19299/index.m3u8
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4AmmWlfbJ12WZMTkoCLIFw/m3u8
 #EXTINF:-1 group-title="📽️ Кинозалы 1",Fresh Thriller
-http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/19300/index.m3u8
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvya6fzR2BgJ4U4NYkUQffHs/m3u8
 #EXTINF:-1 group-title="📽️ Кинозалы 1",Fresh Soviet
-http://138032cb.megogo.xyz/iptv/K493695L9QPPFNXSTUXQB2P9/19301/index.m3u8
+http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv2y6gWxSU1Sy_MlHGiaYpTE/m3u8
 
 #EXTINF:-1  group-title="📽️ Кинозалы 1",IPTVPLAY ФАНТАСТИКА HD
 http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv0DWZhmYKJR1ZSb2Hr3grFI/m3u8
@@ -1184,8 +1184,21 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist
 #EXTINF:-1 group-title="📼 Сериалы" tvg-logo="https://iptvx.one/picons/foxlife.png",Fox Life
 http://188.237.47.212:6008
 
+#EXTINF:0 tvg-rec="7",О!
+#EXTGRP:👶 Детские
+http://ztr8uovl.alfalt.fun/iptv/HRM3MAARQGEFZ8R8H4XB83AR/727/index.m3u8
+#EXTINF:0 tvg-id="ch3276" tvg-name="Kernel TV Три Кота"  tvg-logo="http://team.ga/images/chIcons/3276.png"  timeshift="3", Kernel TV Три Кота
+#EXTGRP:7. 👶 Детские
+http://3.team.ga:80/ch3276/index.m3u8?token=rl_krasnikov.v2_O5p9-gISOIBZAy8PGl0KQJUYx-WuMkRPHUBlvp9ieJ1iwORV5_BuktfmJrXJgeGnSqjd1_5_34aIJ1RpRag
+#EXTINF:0 tvg-id="ch3260" tvg-name="Kernel TV МИ-МИ-Мишки"  tvg-logo="http://team.ga/images/chIcons/3260.png"  timeshift="3", Kernel TV МИ-МИ-Мишки
 #EXTINF:-1 group-title="👶 Детские", Kernel TV МИ-МИ-Мишки
 http://3.team.ga:80/ch3260/index.m3u8?token=rl_krasnikov.v2_LrW9TSBow-gfQ10ZoSohZBcIv8tqXsn_3OwGqEPqMRbMYFtklS5Nb851pJ-ML2KJ0WtkPjJHgSJBTN7VYFg
+#EXTINF:0 tvg-id="ch3254" tvg-name="Kernel TV Лунтик и его Друзья"  tvg-logo="http://team.ga/images/chIcons/3254.png"  timeshift="3", Kernel TV Лунтик и его Друзья
+#EXTGRP:7. 👶 Детские
+http://3.team.ga:80/ch3254/index.m3u8?token=rl_krasnikov.v2_0rHOAA_8f8VTs2eU9hN09cEURiNIzBbiCKSAP7XKshi1UxTPMPlcInnPtNSxMhlE24a87_RM9axYOy_1GkY
+#EXTINF:0 tvg-id="ch3268" tvg-name="Kernel TV Смешарики"  tvg-logo="http://team.ga/images/chIcons/3268.png"  timeshift="3", Kernel TV Смешарики
+#EXTGRP:7. 👶 Детские
+http://3.team.ga:80/ch3268/index.m3u8?token=rl_krasnikov.v2_MQU2HCMRnAVEl9OdlXh9OR_Dd456t_od16A0VtouJr7eTxR95R1IvTvm4uCaSug5c-1VJgpsBdAb2BgyDHg
 #EXTINF:-0 tvg-id="no_epg_cinema" group-title="👶 Детские" tvg-logo="https://i.postimg.cc/YS90VJYX/image.png",МУЛЬТИКИ И СКАЗКИ
 https://132544.edgevideo.ru/streams/132544_931352/132544720/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Чип и Дейл.png" group-title="👶 Детские",Чип и Дейл
@@ -1598,8 +1611,8 @@ http://194.158.218.123:8880/Usadba/index.m3u8
 http://srvru.play-x.ru/channel/7791ab5e/index.m3u8?q=7170e086faf29a20f6b11698846effd1
 http://109.75.59.241:8017/TLC/index.m3u8
 #EXTINF:-1 tvg-id="tlc" group-title="🌏 Познавательные",TLC HD
+http://5.188.159.128:8070/TLC/index.m3u8
 http://srvru.play-x.ru/channel/60b5b0fe/index.m3u8?q=7170e086faf29a20f6b11698846effd1
-http://217.154.10.99:2020/channel/n138c86bd/index.m3u8?q=618051a4e8fb85be64d971b12222208c
 #EXTINF:-1 group-title="🌏 Познавательные" tvg-id="" tvg-logo="http://epg.it999.ru/img2/614.png",Кухня ТВ
 http://45.159.74.22/KukhnyaTv/tracks-v1a1/mono.m3u8
 
