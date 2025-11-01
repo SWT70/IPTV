@@ -87,11 +87,14 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📺 Общероссийские",НТВ (+7)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="" group-title="📺 Общероссийские" tvg-logo="http://logo.vivamax.pro/logo/ntvpravo.png",НТВ Право
+http://ru.vivamax.pro/NTVPravo/index.m3u8?token=abad2c31b48a
+#EXTINF:0 tvg-rec="7",НТВ Право
+#EXTGRP:📺 Общероссийские
+http://raiser.rostelekom.xyz/iptv/7D4RLFDF5DDPLG/743/index.m3u8
 #EXTINF:0 tvg-id="ch612" tvg-name="НТВ Право"  tvg-logo="http://team.ga/images/chIcons/612.png"  timeshift="3", НТВ Право
 #EXTGRP: 📺 Общероссийские
 http://3.team.ga:80/ch612/index.m3u8?token=rl_krasnikov.v2_WrhLPyd3LPDWIAagBZuCWOfwgVmxJ7POf4NxoutPXFXPH-rHBzWRb-Y6ARAeKrk2IffLitymESC3FUQyOA
-#EXTINF:0 CUID="245" number="20" tvg-id="epg1:НТВ Право" tvg-name="epg1:НТВ Право" arc-timeshift="336" arc-time="336" catchup="shift" catchup-days="14" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/НТВ Право.png" group-title="📺 Общероссийские",НТВ Право
-http://ost.ru-tv.site/iX3Rva2VuXSIsImEiOiJodHRwOi8vNTAuNy4yOC4yMjY6ODA4MC84MzA3L3RpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiI5ZWEyYjkzNCIsInAiOiI5ZWEyYjkzNDI3YjlmMDRlIiwiYyI6IjI0NSIsInQiOiJmNzg1NGQxMmQ0YzM1OTkyNTFhYTc3YTIxMTljNGMyMCIsImQiOiI0MjMyNjMiLCJyIjoiNDM1MjM1IiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovLzUwLjcuMjguMjI2LzgzMDcvaW5kZXgubTN1OD90b2tlbj1bc3R/index.m3u8
 #EXTINF:-1 tvg-id="ntv-pravo" tvg-logo="https://iptvx.one/picons/ntv-pravo.png" group-title="📺 Общероссийские", НТВ Право
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/9327/index.m3u8
 http://dhr2z8ze.russtv.net/iptv/B4F5MGA72EEZ39N2F3XUXEML/743/index.m3u8
@@ -453,7 +456,8 @@ http://6293d53d.ottolok.net/iptv/K4FECGTMVS8BKF/7247/index.m3u8
 https://blueberry.uvs.onlinetv.link/cdn_origin2/strashnoe_hd/chunks.m3u8
 http://azrov.megogo.xyz/iptv/G4KW8NLDD9DCD4/7247/index.m3u8
 
-
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="Шокирующее HD" group-title="📽️ Кинозал" tvg-logo="http://logo.vivamax.pro/logo/shokiruyushee.png",Шокирующее HD
+http://ru.vivamax.pro/Shokiruyushee/index.m3u8?token=abad2c31b48a
 #EXTINF:-1 group-title="📽️ Кинозал" tvg-logo="http://srvru.play-x.ru/logos/shokiruyuschee.png",Шокирующее HD
 http://4afc0bdb.rossteleccom.net/iptv/BS6UNV8UB53SVB62EVQTCCUB/6299/index.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал", Шокирующее (+3)
