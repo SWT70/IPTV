@@ -437,8 +437,8 @@ https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852ca
 
 #EXTINF:0 tvg-rec="7",НСТ
 #EXTGRP:📽️ Кинозал
-http://azrov.megogo.xyz/iptv/G4KW8NLDD9DCD4/726/index.m3u8
-#EXTINF:0 tvg-rec="3",НСТ orig
+#EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="НСТ" group-title="📽️ Кинозал" tvg-logo="http://logo.vivamax.pro/logo/nst.png",НСТ
+http://ru.vivamax.pro/NST/index.m3u8?token=abad2c31b48a
 #EXTGRP:📽️ Кинозал
 http://azrov.megogo.xyz/iptv/G4KW8NLDD9DCD4/9148/index.m3u8
 #EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png" group-title="📽️ Кинозал", НСТ 
