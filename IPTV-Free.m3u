@@ -87,9 +87,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📺 Общероссийские",НТВ (+7)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
-#EXTINF:0 tvg-rec="3",НТВ Право orig
-#EXTGRP:📺 Общероссийские
-http://7a592101.edemist.com/iptv/Y8ZESSQLYDQMZV/9327/index.m3u8
 #EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="" group-title="📺 Общероссийские" tvg-logo="http://logo.vivamax.pro/logo/ntvpravo.png",НТВ Право
 http://ru.vivamax.pro/NTVPravo/index.m3u8?token=abad2c31b48a
 #EXTINF:0 tvg-rec="7",НТВ Право
@@ -437,9 +434,6 @@ http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 tvg-id="solovjinypomiot" tvg-logo="https://iptvx.one/picons/solovjinypomiot.png" group-title="📺 Общероссийские",Соловьев.Live HD
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 
-#EXTINF:0 tvg-rec="3",НСТ orig
-#EXTGRP:📽️ Кинозал
-http://7a592101.edemist.com/iptv/Y8ZESSQLYDQMZV/9148/index.m3u8
 #EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="НСТ" group-title="📽️ Кинозал" tvg-logo="http://logo.vivamax.pro/logo/nst.png",НСТ
 http://ru.vivamax.pro/NST/index.m3u8?token=abad2c31b48a
 #EXTGRP:📽️ Кинозал
@@ -452,16 +446,12 @@ http://178.217.72.66:8080/NSTV/index.m3u8
 http://dmi3y-tv.ru/hls/CH_NST.m3u8
 http://178.212.71.253:8000/play/100/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/STRASHNOEHD200.png" group-title="📽️ Кинозал",Страшное HD
 http://4afc0bdb.rossteleccom.net/iptv/BS6UNV8UB53SVB62EVQTCCUB/7247/index.m3u8
 http://6293d53d.ottolok.net/iptv/K4FECGTMVS8BKF/7247/index.m3u8
 https://blueberry.uvs.onlinetv.link/cdn_origin2/strashnoe_hd/chunks.m3u8
 http://azrov.megogo.xyz/iptv/G4KW8NLDD9DCD4/7247/index.m3u8
 
-#EXTINF:0 tvg-rec="3",Шокирующее HD orig
-#EXTGRP:📽️ Кинозал
-http://7a592101.edemist.com/iptv/Y8ZESSQLYDQMZV/9004/index.m3u8
 #EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="Шокирующее HD" group-title="📽️ Кинозал" tvg-logo="http://logo.vivamax.pro/logo/shokiruyushee.png",Шокирующее HD
 http://ru.vivamax.pro/Shokiruyushee/index.m3u8?token=abad2c31b48a
 #EXTINF:-1 group-title="📽️ Кинозал" tvg-logo="http://srvru.play-x.ru/logos/shokiruyuschee.png",Шокирующее HD
@@ -549,9 +539,6 @@ http://srvru.play-x.ru/channel/n4b2f8c4a/index.m3u8?q=7170e086faf29a20f6b1169884
 #EXTINF:-1 group-title="📽️ Кинозал" tvg-logo="https://iptvx.one/picons/kino-tv.png",КиноТВ HD
 http://iptv46.mcx-ix.ru:8077/kino_tv_hd/index.m3u8
 http://31.148.48.15/Kino_TV_HD/tracks-v1a1/mono.m3u8?token=default
-#EXTINF:0 tvg-rec="3",Кино ТВ orig
-#EXTGRP:📽️ Кинозал
-http://7a592101.edemist.com/iptv/Y8ZESSQLYDQMZV/9244/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/КИНО ТВ.png" group-title="📽️ Кинозал",КиноТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 https://vod.tuva.ru/kinotv/index.m3u8
@@ -1208,6 +1195,11 @@ http://188.237.47.212:6008
 #EXTINF:0 tvg-rec="7",О!
 #EXTGRP:👶 Детские
 http://ztr8uovl.alfalt.fun/iptv/HRM3MAARQGEFZ8R8H4XB83AR/727/index.m3u8
+#EXTINF:0 tvg-rec="3",О! orig
+#EXTGRP:👶 Детские
+http://7a592101.edemist.com/iptv/Y8ZESSQLYDQMZV/9190/index.m3u8
+#EXTINF:-1 tvg-id="o_" tvg-logo="https://iptvx.one/picons/o_.png" group-title="👶 Детские", О!
+http://130.193.73.10:8937/play/a016
 #EXTINF:0 tvg-id="ch3276" tvg-name="Kernel TV Три Кота"  tvg-logo="http://team.ga/images/chIcons/3276.png"  timeshift="3", Kernel TV Три Кота
 #EXTGRP:7. 👶 Детские
 http://3.team.ga:80/ch3276/index.m3u8?token=rl_krasnikov.v2_O5p9-gISOIBZAy8PGl0KQJUYx-WuMkRPHUBlvp9ieJ1iwORV5_BuktfmJrXJgeGnSqjd1_5_34aIJ1RpRag
@@ -1246,8 +1238,6 @@ http://dmi3y-tv.ru/hls/CH_MULTIMUZYKA.m3u8
 #EXTINF:-1 tvg-id="multimania-lv" tvg-logo="https://iptvx.one/picons/multimania-lv.png" group-title="👶 Детские", Мультимания
 http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="o_" tvg-logo="https://iptvx.one/picons/o_.png" group-title="👶 Детские", О!
-http://130.193.73.10:8937/play/a016
 #EXTINF:-1 group-title="👶 Детские", Детское кино International
 https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 group-title="👶 Детские", КиноМульт
