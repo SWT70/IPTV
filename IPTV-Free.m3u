@@ -447,17 +447,13 @@ http://dmi3y-tv.ru/hls/CH_NST.m3u8
 http://178.212.71.253:8000/play/100/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/STRASHNOEHD200.png" group-title="📽️ Кинозал",Страшное HD
-http://4afc0bdb.rossteleccom.net/iptv/BS6UNV8UB53SVB62EVQTCCUB/7247/index.m3u8
 http://6293d53d.ottolok.net/iptv/K4FECGTMVS8BKF/7247/index.m3u8
 https://blueberry.uvs.onlinetv.link/cdn_origin2/strashnoe_hd/chunks.m3u8
 http://azrov.megogo.xyz/iptv/G4KW8NLDD9DCD4/7247/index.m3u8
 
 #EXTINF:-1 catchup-days="7" catchup-type="flussonic" tvg-id="Шокирующее HD" group-title="📽️ Кинозал" tvg-logo="http://logo.vivamax.pro/logo/shokiruyushee.png",Шокирующее HD
 http://ru.vivamax.pro/Shokiruyushee/index.m3u8?token=abad2c31b48a
-#EXTINF:-1 group-title="📽️ Кинозал" tvg-logo="http://srvru.play-x.ru/logos/shokiruyuschee.png",Шокирующее HD
-http://4afc0bdb.rossteleccom.net/iptv/BS6UNV8UB53SVB62EVQTCCUB/6299/index.m3u8
-#EXTINF:-1 group-title="📽️ Кинозал", Шокирующее (+3)
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Kinopokaz_HD1_3
+#EXTINF:-1 group-title="📽️ Кинозал", Шокирующее HD
 http://azrov.megogo.xyz/iptv/G4KW8NLDD9DCD4/6299/index.m3u8
 
 #EXTINF:-1 group-title="📽️ Кинозал", Scream HD
