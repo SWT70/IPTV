@@ -438,6 +438,8 @@ http://dmi3y-tv.ru/hls/CH_NST.m3u8
 http://178.212.71.253:8000/play/100/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/STRASHNOEHD200.png" group-title="📽️ Кинозал",Страшное HD
+#EXTINF:0 CUID="68" tvg-name="1:735" tvg-id="1:735" arc-time="120" catchup="shift" catchup-days="5" tvg-logo="http://stb.ping-tv.com/images/logo_chanel/STRASHNOEHD200.png" group-title="📽️ Кинозал",Страшное HD
+http://ost.ping-tv.com/vLm0zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo5OTgyL3N0cmFzaG5vZWhkL3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiJhMGZmNGU2MCIsInAiOiJhMGZmNGU2MGY0NzE5YzdiIiwiYyI6IjY4IiwidCI6IjYyMmQ4ZDc0ZTdjNzY3MWJjZDllYjhhNTNjYjJmMzQ0IiwiZCI6Ijg4NzU3IiwiciI6IjE3OTc1OSIsIm0iOiJ0diJ9eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL3N0cmFzaG5vZWhkL3ZpZGV/video.m3u8
 
 
 #EXTINF:-1 group-title="📽️ Кинозал", Шокирующее HD
@@ -885,6 +887,8 @@ http://178.212.71.253:8000/play/112/index.m3u8
 #EXTINF:-1 group-title="👶 Детские",СТС Kids HD
 #EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
 http://31.148.48.15/STS_Kids_HD/index.m3u8
+#EXTINF:0 CUID="37" tvg-name="1:1147" tvg-id="1:1147" arc-time="120" catchup="shift" catchup-days="5" tvg-logo="http://stb.ping-tv.com/images/logo_chanel/STSKIDS2001.png" group-title="👶 Детские",СТС Kids HD
+http://ost.ping-tv.com/tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHI2Lm94dHZlLmxpdmU6ODA4MC9zdHNraWRzSEQvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImEwZmY0ZTYwIiwicCI6ImEwZmY0ZTYwZjQ3MTljN2IiLCJjIjoiMzciLCJ0IjoiNjIyZDhkNzRlN2M3NjcxYmNkOWViOGE1M2NiMmYzNDQiLCJkIjoiODg3NTciLCJyIjoiMTc5NzU5IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL3N0c2tpZHNIRC92aWRlby5/video.m3u8
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" group-title="👶 Детские",, В Гостях у Сказки
 http://91.194.191.241:8081/chid61/tracks-v1a1/mono.m3u8
 http://109.200.130.123:7537/play/a02m
