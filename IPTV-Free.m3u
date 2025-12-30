@@ -438,16 +438,14 @@ http://dmi3y-tv.ru/hls/CH_NST.m3u8
 http://178.212.71.253:8000/play/100/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/STRASHNOEHD200.png" group-title="📽️ Кинозал",Страшное HD
-#EXTINF:0 CUID="68" tvg-name="1:735" tvg-id="1:735" arc-time="120" catchup="shift" catchup-days="5" tvg-logo="http://stb.ping-tv.com/images/logo_chanel/STRASHNOEHD200.png" group-title="📽️ Кинозал",Страшное HD
-http://ost.ping-tv.com/vLm0zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo5OTgyL3N0cmFzaG5vZWhkL3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiJhMGZmNGU2MCIsInAiOiJhMGZmNGU2MGY0NzE5YzdiIiwiYyI6IjY4IiwidCI6IjYyMmQ4ZDc0ZTdjNzY3MWJjZDllYjhhNTNjYjJmMzQ0IiwiZCI6Ijg4NzU3IiwiciI6IjE3OTc1OSIsIm0iOiJ0diJ9eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL3N0cmFzaG5vZWhkL3ZpZGV/video.m3u8
-
 
 #EXTINF:-1 group-title="📽️ Кинозал", Шокирующее HD
 
-
 #EXTINF:-1 group-title="📽️ Кинозал", Scream HD
 
-
+#EXTINF:0 tvg-rec="3",Киноужас HD
+#EXTGRP:📽️ Кинозал
+http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/2056/index.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал", Киноужас HD
 http://95.85.109.219:7000/play/a00y
 #EXTINF:-1 group-title="📽️ Кинозал", Киноужас
@@ -520,6 +518,9 @@ http://95.66.188.74/Kinopokaz/mono.m3u8
 http://31.148.48.15/Kinopokaz/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:-1 group-title="📽️ Кинозал", Кинопоказ HD (+3)
 http://srvru.play-x.ru/channel/n4b2f8c4a/index.m3u8?q=7170e086faf29a20f6b11698846effd1
+#EXTINF:0 tvg-rec="3",Кино ТВ HD
+#EXTGRP:📽️ Кинозал
+http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/2097/index.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал" tvg-logo="https://iptvx.one/picons/kino-tv.png",КиноТВ HD
 http://iptv46.mcx-ix.ru:8077/kino_tv_hd/index.m3u8
 http://31.148.48.15/Kino_TV_HD/tracks-v1a1/mono.m3u8?token=default
@@ -887,9 +888,9 @@ http://178.212.71.253:8000/play/112/index.m3u8
 #EXTINF:-1 group-title="👶 Детские",СТС Kids HD
 #EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
 http://31.148.48.15/STS_Kids_HD/index.m3u8
-#EXTINF:0 CUID="37" tvg-name="1:1147" tvg-id="1:1147" arc-time="120" catchup="shift" catchup-days="5" tvg-logo="http://stb.ping-tv.com/images/logo_chanel/STSKIDS2001.png" group-title="👶 Детские",СТС Kids HD
-http://ost.ping-tv.com/tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHI2Lm94dHZlLmxpdmU6ODA4MC9zdHNraWRzSEQvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6ImEwZmY0ZTYwIiwicCI6ImEwZmY0ZTYwZjQ3MTljN2IiLCJjIjoiMzciLCJ0IjoiNjIyZDhkNzRlN2M3NjcxYmNkOWViOGE1M2NiMmYzNDQiLCJkIjoiODg3NTciLCJyIjoiMTc5NzU5IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL3N0c2tpZHNIRC92aWRlby5/video.m3u8
-#EXTINF:-1 tvg-id="v-gostiax-u-skazki" group-title="👶 Детские",, В Гостях у Сказки
+#EXTINF:0 tvg-rec="7",СТС Kids HD
+#EXTGRP:👶 Детские
+http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/2001/index.m3u8
 http://91.194.191.241:8081/chid61/tracks-v1a1/mono.m3u8
 http://109.200.130.123:7537/play/a02m
 #EXTINF:-1 tvg-id="detsky" tvg-logo="https://iptvx.one/picons/unikum.png" group-title="👶 Детские",Уникум
@@ -1222,9 +1223,9 @@ http://176.107.219.20:9000/play/a009/index.m3u8
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Tonus
 #EXTINF:-1 tvg-id="usadba" tvg-logo="https://iptvx.one/picons/usadba.png" group-title="🌏 Познавательные",Усадьба
 http://194.158.218.123:8880/Usadba/index.m3u8
-#EXTINF:-1 tvg-id="tlc" group-title="🌏 Познавательные", TLC
-http://srvru.play-x.ru/channel/7791ab5e/index.m3u8?q=7170e086faf29a20f6b11698846effd1
-http://109.75.59.241:8017/TLC/index.m3u8
+#EXTINF:0 tvg-rec="7",TLC HD
+#EXTGRP:🌏 Познавательные
+http://ec3be4ac.ottolok.net/iptv/CLH6U5UTPZ9SC6SBBYX2RPKQ/232/index.m3u8
 #EXTINF:-1 tvg-id="tlc" group-title="🌏 Познавательные",TLC HD
 http://5.188.159.128:8070/TLC/index.m3u8
 http://srvru.play-x.ru/channel/60b5b0fe/index.m3u8?q=7170e086faf29a20f6b11698846effd1
