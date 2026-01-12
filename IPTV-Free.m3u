@@ -439,7 +439,7 @@ http://178.217.72.66:8080/NSTV/index.m3u8
 http://dmi3y-tv.ru/hls/CH_NST.m3u8
 http://178.212.71.253:8000/play/100/index.m3u8
 
-#EXTINF:0 CUID="68" tvg-name="1:735" tvg-id="1:735" arc-time="120" catchup="shift" catchup-days="5" tvg-logo="http://stb.ping-tv.com/images/logo_chanel/STRASHNOEHD200.png" group-title="📽️ Кинозал"Страшное HD
+#EXTINF:0 CUID="68" tvg-name="1:735" tvg-id="1:735" arc-time="120" catchup="shift" catchup-days="5" tvg-logo="http://stb.ping-tv.com/images/logo_chanel/STRASHNOEHD200.png" group-title="📽️ Кинозал",Страшное HD
 http://ost.ping-tv.com/4Lm0zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjkub3h0dmUubGl2ZTo5OTgyL3N0cmFzaG5vZWhkL3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiJhMGZmNGU2MCIsInAiOiJhMGZmNGU2MGY0NzE5YzdiIiwiYyI6IjY4IiwidCI6IjJiYjZiN2MxOWYwODUyZDJlMmMwMGVlMmUxMTAxOGJlIiwiZCI6Ijg4NzU3IiwiciI6IjE3OTc1OSIsIm0iOiJ0diJ9eyJ1IjoiaHR0cDovL3N0cjkub3h0dmUubGl2ZTo4MDgwL3N0cmFzaG5vZWhkL2luZGV/index.m3u8
 
 #EXTINF:0 CUID="67" tvg-name="1:354" tvg-id="1:354" arc-time="120" catchup="shift" catchup-days="5" tvg-logo="http://stb.ping-tv.com/images/logo_chanel/SHOKIRUYUSHCHEEHD200.png" group-title="📽️ Кинозал",Шокирующее
