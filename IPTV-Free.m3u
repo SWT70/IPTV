@@ -444,8 +444,16 @@ http://ost.ping-tv.com/4Lm0zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjku
 
 #EXTINF:0 CUID="67" tvg-name="1:354" tvg-id="1:354" arc-time="120" catchup="shift" catchup-days="5" tvg-logo="http://stb.ping-tv.com/images/logo_chanel/SHOKIRUYUSHCHEEHD200.png" group-title="📽️ Кинозал",Шокирующее
 http://ost.ping-tv.com/uZGV4Lm0zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjkub3h0dmUubGl2ZTo5OTgyL3Nob2tpcnV5c2hlZWhkL3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiJhMGZmNGU2MCIsInAiOiJhMGZmNGU2MGY0NzE5YzdiIiwiYyI6IjY3IiwidCI6IjJiYjZiN2MxOWYwODUyZDJlMmMwMGVlMmUxMTAxOGJlIiwiZCI6Ijg4NzU3IiwiciI6IjE3OTc1OSIsIm0iOiJ0diJ9eyJ1IjoiaHR0cDovL3N0cjkub3h0dmUubGl2ZTo4MDgwL3Nob2tpcnV5c2hlZWhkL2l/index.m3u8
+#EXTINF:0 tvg-rec="3",Шокирующее HD
+#EXTGRP:📽️ Кинозалы
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/6299/index.m3u8
+#EXTINF:0 tvg-rec="3",Шокирующее HD
+#EXTGRP:📽️ Кинозалы
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/9004/index.m3u8
 
-#EXTINF:-1 group-title="📽️ Кинозал", Scream HD
+#EXTINF:0 tvg-rec="0",Scream HD
+#EXTGRP:📽️ Кинозалы
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/20021/index.m3u8
 
 #EXTINF:0 tvg-rec="3",Киноужас HD
 #EXTGRP:📽️ Кинозал
@@ -594,6 +602,1251 @@ https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
 https://fl1001.bozztv.com/ushba45/index.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал", Kinojam 2
 http://4os6vafy.ottclub.xyz/iptv/AKK7DUVFEFYVGN4NPPYPAR3B/7261/index.m3u8
+
+#EXTINF:0 tvg-rec="7",VF Adventure
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/10000/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Anime
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/10001/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Cartoon
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/10002/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Comedy
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/10003/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Family
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/10004/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Fantasy
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/10005/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Melodrama
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/10006/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Mystic
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/10007/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Ужасы
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/10008/index.m3u8
+#EXTINF:0 tvg-rec="7",VF VHS MIX
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/10009/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Ужасы VHS
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/10010/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Премьера
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/10051/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Premiere
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/10052/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Классика
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/10053/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Classic
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/10054/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Комедия
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/10055/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Катастрофы
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/10080/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Marvel
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/10081/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Военные
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/10082/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Наша победа
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/10083/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Мосфильм
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/10084/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Фильмы СССР
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/10085/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Мультфильмы СССР
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/10086/index.m3u8
+#EXTINF:0 tvg-rec="7",VF Боевик
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/10087/index.m3u8
+#EXTINF:0 tvg-rec="7",FlixSnip HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/10060/index.m3u8
+#EXTINF:0 tvg-rec="3",Shot TV
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/526/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11004/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Top
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11005/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Action
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11006/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Thriller
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11007/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Мелодрама
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11008/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Marvel
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11009/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Ужасы
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11010/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Комедия
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11011/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan VHS
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11012/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan РуКино
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11013/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Сваты
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11014/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Катастрофы
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/15106/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Ментовские войны
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/16063/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan ПёС + Лихач
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/16064/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Лесник
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/16065/index.m3u8
+#EXTINF:0 tvg-rec="7",StrahTV The X-Files
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11055/index.m3u8
+#EXTINF:0 tvg-rec="7",StrahTV Интерны ТВ
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11060/index.m3u8
+#EXTINF:0 tvg-rec="7",StrahTV СССР
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11061/index.m3u8
+#EXTINF:0 tvg-rec="7",StrahTV Сваты
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11062/index.m3u8
+#EXTINF:0 tvg-rec="7",StrahTV Универ ТВ
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11063/index.m3u8
+#EXTINF:0 tvg-rec="7",PG USSR HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11102/index.m3u8
+#EXTINF:0 tvg-rec="0",PG VHS HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/15000/index.m3u8
+#EXTINF:0 tvg-rec="0",VB VHS Classic
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/19429/index.m3u8
+#EXTINF:0 tvg-rec="0",VF TOP Series
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11116/index.m3u8
+#EXTINF:0 tvg-rec="0",VF VHS Cartoon
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11118/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Art house
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11119/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Detective
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11120/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Fantastic
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11121/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Оскар
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11122/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Малыш
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11123/index.m3u8
+#EXTINF:0 tvg-rec="0",TOP Великолепный Век HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13001/index.m3u8
+#EXTINF:0 tvg-rec="0",TOP 80 S HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13002/index.m3u8
+#EXTINF:0 tvg-rec="0",TOP BUDO HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13003/index.m3u8
+#EXTINF:0 tvg-rec="0",TOP Cinema HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13004/index.m3u8
+#EXTINF:0 tvg-rec="0",TOP USSR HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13005/index.m3u8
+#EXTINF:0 tvg-rec="0",TOP MIX HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13006/index.m3u8
+#EXTINF:0 tvg-rec="0",MM 007 HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13009/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Love HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13010/index.m3u8
+#EXTINF:0 tvg-rec="0",MM NewFilm 1 HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13011/index.m3u8
+#EXTINF:0 tvg-rec="0",MM NewFilm 2 HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13012/index.m3u8
+#EXTINF:0 tvg-rec="0",MM NewFilm 3 HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13013/index.m3u8
+#EXTINF:0 tvg-rec="0",MM NewFilm RU HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13014/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Rock HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13015/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Tom and Jerry HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13016/index.m3u8
+#EXTINF:0 tvg-rec="0",MM UFO HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13017/index.m3u8
+#EXTINF:0 tvg-rec="0",MM USSR 1941-1945 HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13018/index.m3u8
+#EXTINF:0 tvg-rec="0",MM USSR Комедия HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13019/index.m3u8
+#EXTINF:0 tvg-rec="0",MM USSR Мультфильм HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13020/index.m3u8
+#EXTINF:0 tvg-rec="0",MM USSR Сказки HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13021/index.m3u8
+#EXTINF:0 tvg-rec="0",MM USSR Драма HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13022/index.m3u8
+#EXTINF:0 tvg-rec="0",MM World Hits HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13023/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Агата Кристи HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13024/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Грайндхаус HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13025/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Honey HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13026/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Боевик Classic HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13027/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Боевик HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13028/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Вестерн HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13029/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Воронины HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13031/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Затмение HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13032/index.m3u8
+#EXTINF:0 tvg-rec="0",MM История HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13033/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Катастрофа HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13034/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Квартирник HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13035/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Киберпанк HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13036/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Комедия Classic HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13037/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Комедия HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13038/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Криминал HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13039/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Крутые 90-е HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13040/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Кунг-Фу HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13041/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Lesson HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13042/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Smile HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13043/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Мифология HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13044/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Нуар HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13045/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Ситком 2.0 HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13046/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Погружение HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13047/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Приключения HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13048/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Полицейский с Рублёвки HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13049/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Роскино HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13050/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Сваты HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13051/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Ситком HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13052/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Скорость HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13053/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Спорт HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13054/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Стивен Кинг HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13055/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Супергерои HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13056/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Flip UHD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13057/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Триллер HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13058/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Ужастик HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13059/index.m3u8
+#EXTINF:0 tvg-rec="0",MM USSR Приключения HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13060/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Синематограф HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13061/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Фантастика HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13062/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Фобия HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13063/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Walt Disney HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13064/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Live Planet HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13095/index.m3u8
+#EXTINF:0 tvg-rec="0",MM USSR Детектив HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13096/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Семейный 1 HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13097/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Семейный 2 HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13098/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Ужасы HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13099/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Ужасы Classic HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/14128/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Celebrity HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/16084/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Classic HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/16085/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Драма HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/16086/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Сваты
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13080/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Солдаты
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13081/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Тайны следствия
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13082/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Воронины
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13083/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Универ
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13084/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Series
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13085/index.m3u8
+#EXTINF:0 tvg-rec="0",VF След
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13086/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Сериал
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13087/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Мыльные оперы
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13088/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Thriller
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13089/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Индия
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13090/index.m3u8
+#EXTINF:0 tvg-rec="0",VF История
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13091/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Comics
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13092/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Криминал
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13093/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Клиника
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/13094/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Луи де Фюнес
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/17000/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Чернобыль
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/17001/index.m3u8
+#EXTINF:0 tvg-rec="0",VF The X-Files
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/17002/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Сверхъестественное
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/17003/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Леонид Гайдай
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/17004/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Американская история ужасов
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/17005/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Друзья
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/17006/index.m3u8
+#EXTINF:0 tvg-rec="0",VF СашаТаня
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/17008/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Джеки Чан
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/17009/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Наша Раша
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/17010/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Привет из 90х
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/17011/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Эльдар Рязанов
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/17012/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Универ новая общага
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/17013/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Ходячие мертвецы
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/17014/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Реальные пацаны
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/17015/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Доктор Хаус
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/17016/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Без цензуры
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/17017/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Городок
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18097/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Comedy Woman
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18101/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Игра престолов
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18119/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Одесская киностудия
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18120/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Ленфильм
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18121/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Киностудия им. Горького
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18122/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Рижская киностудия
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18123/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Свердловская киностудия
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18124/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Беларусьфильм
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18125/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Однажды в России
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/19286/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Netflix
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/19427/index.m3u8
+#EXTINF:0 tvg-rec="0",VF HBO
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/19428/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Channel HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/14134/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Comedy HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/14135/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Crime HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/14136/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Horror HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/14137/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Grand
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/14171/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV VHS
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/14172/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Русские Фильмы
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/14174/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Советские Фильмы
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/14175/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV New Кино
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/14177/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Music Hits
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/14179/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Трагичное
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/14219/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Забавное
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/14234/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Ковбойское
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/14235/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Best
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/14236/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Adrenaline
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/15105/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Thriller
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/15168/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Oblivion
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/15509/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Adventure
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/15510/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Мелодрама
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/19434/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Netflix
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/20163/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Disney
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/20164/index.m3u8
+#EXTINF:0 tvg-rec="0",Yosso TV Best 60fps
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/20165/index.m3u8
+#EXTINF:0 tvg-rec="0",Citrus Comedy
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/16151/index.m3u8
+#EXTINF:0 tvg-rec="0",Citrus Inquest
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/16152/index.m3u8
+#EXTINF:0 tvg-rec="0",Citrus History
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18139/index.m3u8
+#EXTINF:0 tvg-rec="0",Твое ТВ HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/14229/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Media HD OLD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/15024/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Marvel HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/15025/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Comedy HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/15026/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Reality OLD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/16083/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Survival OLD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/17020/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Romantic OLD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18052/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty DC FHD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/15087/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Ужасы 4K
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/15088/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Триллеры 4K
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/15089/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Марвел FHD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/15090/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Короткометражки FHD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/15091/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Мелодрамы FHD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/15095/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Боевики FHD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/15096/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Кино Микс 4K
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/15110/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Симпсоны FHD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/15111/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Сваты FHD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/15164/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Южный Парк FHD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/16053/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Комедии FHD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/16054/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Сериалы FHD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/16055/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Кино ENG 4K
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/17060/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Мульт ENG 4K
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/17061/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Мульт UKR 4K
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18044/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Кино UKR 4K
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18045/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty РусФильм 4K
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18046/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Мульт 4K
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18051/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Индия 4K
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18160/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Куб 4K
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18161/index.m3u8
+#EXTINF:0 tvg-rec="0",Liberty Семейный 4K
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18178/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Скорая Помощь
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/15100/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Симпсоны
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/15101/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan MiniSeries
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/19437/index.m3u8
+#EXTINF:0 tvg-rec="0",MS Prisons HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/15137/index.m3u8
+#EXTINF:0 tvg-rec="0",MS Toons HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/15138/index.m3u8
+#EXTINF:0 tvg-rec="0",MS Magic 4K
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/16143/index.m3u8
+#EXTINF:0 tvg-rec="0",MS Young Blood HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/16147/index.m3u8
+#EXTINF:0 tvg-rec="0",MS Animated HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/17024/index.m3u8
+#EXTINF:0 tvg-rec="0",Citrus Marvel
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/16051/index.m3u8
+#EXTINF:0 tvg-rec="0",Citrus Cartoon
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/16050/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Cinema
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/19287/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Kids
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/19288/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Comedy
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/19289/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Premiere
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/19290/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Family
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/19291/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Rating
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/19292/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh VHS
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/19293/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Fantastic
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/19294/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Series
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/19295/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Horror
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/19296/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Adventure
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/19297/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Romantic
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/19298/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Russian
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/19299/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Thriller
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/19300/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Soviet
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/19301/index.m3u8
+#EXTINF:0 tvg-rec="0",Cine+ Classic HD FR
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/17039/index.m3u8
+#EXTINF:0 tvg-rec="0",Eye Media HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/17064/index.m3u8
+#EXTINF:0 tvg-rec="0",Eye Oscar HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/17065/index.m3u8
+#EXTINF:0 tvg-rec="0",Eye Frozen HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/17066/index.m3u8
+#EXTINF:0 tvg-rec="0",Eye Criminal HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/17067/index.m3u8
+#EXTINF:0 tvg-rec="0",Eye Modern HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/17068/index.m3u8
+#EXTINF:0 tvg-rec="0",START Air HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18036/index.m3u8
+#EXTINF:0 tvg-rec="0",VB Российские Сериалы
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18043/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic Karate HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18061/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic VHS HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18062/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic Comedy HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18063/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic Disney HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18064/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic Thriller HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18065/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic Action HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18066/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic Galaxy HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18067/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic Horror HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18068/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic Family HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18170/index.m3u8
+#EXTINF:0 tvg-rec="0",Magic Love HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18171/index.m3u8
+#EXTINF:0 tvg-rec="0",Tviksel Кино 1 HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18069/index.m3u8
+#EXTINF:0 tvg-rec="0",Tviksel Кино 2 HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18070/index.m3u8
+#EXTINF:0 tvg-rec="0",Tviksel Кино 1 International
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18071/index.m3u8
+#EXTINF:0 tvg-rec="0",Tviksel Военное кино HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18072/index.m3u8
+#EXTINF:0 tvg-rec="0",Tviksel Детское кино HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18073/index.m3u8
+#EXTINF:0 tvg-rec="0",Tviksel Детское кино International
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18074/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Шерлок Холмс и доктор Ватсон
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18126/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор След
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18127/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Ментовские войны
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18128/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Мелодрамы
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18129/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Мир без границ
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18130/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Некрасивая подружка
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18131/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Три богатыря
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18132/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Сибирские деревянные дома
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18133/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Знание
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18134/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Советские мультфильмы
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18135/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Смешарики
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18136/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Комедии
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/18137/index.m3u8
+#EXTINF:0 tvg-rec="0",Миллет HD (Крым)
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/19258/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Franchise HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/19274/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Hybrid HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/19275/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Anime HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/19276/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Gangster HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/19277/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Oscar HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/19278/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Memory HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/19279/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Game HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/19284/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Spy HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/19285/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Travel HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/19418/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Western HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/19419/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Zombie HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/19420/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Cyber HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/19421/index.m3u8
+#EXTINF:0 tvg-rec="0",PG Insomnia HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/19398/index.m3u8
+#EXTINF:0 tvg-rec="0",MYTV
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/19407/index.m3u8
+#EXTINF:0 tvg-rec="0",MYTV 2
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/19408/index.m3u8
+#EXTINF:0 tvg-rec="0",MYTV HIT
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/19410/index.m3u8
+#EXTINF:0 tvg-rec="0",MYTV 3
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/19411/index.m3u8
+#EXTINF:0 tvg-rec="0",MM OldSchool HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/19413/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Family Guy HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/19414/index.m3u8
+#EXTINF:0 tvg-rec="0",Citrus Live HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/19436/index.m3u8
+#EXTINF:0 tvg-rec="0",Рибалка HD UA
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31743/index.m3u8
+#EXTINF:0 tvg-rec="0",Суспільне Крим FHD UA
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31746/index.m3u8
+#EXTINF:0 tvg-rec="0",Перший Західний HD UA
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31752/index.m3u8
+#EXTINF:0 tvg-rec="0",Терра UA
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31753/index.m3u8
+#EXTINF:0 tvg-rec="0",UTravel HD UA
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31762/index.m3u8
+#EXTINF:0 tvg-rec="0",Viasat Kino Comedy HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31764/index.m3u8
+#EXTINF:0 tvg-rec="0",Viasat Kino HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31765/index.m3u8
+#EXTINF:0 tvg-rec="0",Viasat Nature CEE HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31766/index.m3u8
+#EXTINF:0 tvg-rec="0",Viasat Kino World
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31767/index.m3u8
+#EXTINF:0 tvg-rec="0",Ісландія HD UA
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31769/index.m3u8
+#EXTINF:0 tvg-rec="0",Галичина HD UA
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31772/index.m3u8
+#EXTINF:0 tvg-rec="0",Kvartal TV HD UA
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31780/index.m3u8
+#EXTINF:0 tvg-rec="0",11 Канал HD (Дніпро) UA
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31785/index.m3u8
+#EXTINF:0 tvg-rec="0",36.6 TV UA
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31787/index.m3u8
+#EXTINF:0 tvg-rec="0",4ever Cinema HD UA
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31788/index.m3u8
+#EXTINF:0 tvg-rec="0",Cine+ Kids HD UA
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31796/index.m3u8
+#EXTINF:0 tvg-rec="0",Cine+ Legend HD UA
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31797/index.m3u8
+#EXTINF:0 tvg-rec="0",D1 HD UA
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31798/index.m3u8
+#EXTINF:0 tvg-rec="0",Fashion TV HD UA
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31804/index.m3u8
+#EXTINF:0 tvg-rec="0",Kinosweet HD UA
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31816/index.m3u8
+#EXTINF:0 tvg-rec="0",StrahTV Ольга HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31718/index.m3u8
+#EXTINF:0 tvg-rec="0",StrahTV Репка HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31719/index.m3u8
+#EXTINF:0 tvg-rec="0",StrahTV Страх 2.0 HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31720/index.m3u8
+#EXTINF:0 tvg-rec="0",StrahTV Фантастика 2.0 HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31722/index.m3u8
+#EXTINF:0 tvg-rec="0",Українське радіо 1 UA
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31724/index.m3u8
+#EXTINF:0 tvg-rec="0",Українське радіо 3 UA
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31725/index.m3u8
+#EXTINF:0 tvg-rec="0",Фауна UA
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31727/index.m3u8
+#EXTINF:0 tvg-rec="0",StrahTV Байки из склепа
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31711/index.m3u8
+#EXTINF:0 tvg-rec="0",StrahTV Кинодром HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31714/index.m3u8
+#EXTINF:0 tvg-rec="0",StrahTV Громовы
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31712/index.m3u8
+#EXTINF:0 tvg-rec="0",StrahTV Коломбо
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31713/index.m3u8
+#EXTINF:0 tvg-rec="0",StrahTV Однажды в милиции
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31715/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!History HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31695/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Biography HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31697/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Military HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31696/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Adventure HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31698/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Detective HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31699/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Family HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31701/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Drama HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31700/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Fantasy HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31703/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Russian HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31704/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Science HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31705/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Fun HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31706/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Fantastic HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31702/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Thriller HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31693/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Action HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31694/index.m3u8
+#EXTINF:0 tvg-rec="0",Calle 13 HD ES
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31836/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Drama HD ES
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31866/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Acción HD ES
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31868/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Comedia HD ES
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31869/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Cine Español HD ES
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31870/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Estrenos HD ES
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31872/index.m3u8
+#EXTINF:0 tvg-rec="0",Warner TV HD ES
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31873/index.m3u8
+#EXTINF:0 tvg-rec="0",AXN HD ES
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31877/index.m3u8
+#EXTINF:0 tvg-rec="0",SYFY HD ES
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31880/index.m3u8
+#EXTINF:0 tvg-rec="0",Atreseries HD ES
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31882/index.m3u8
+#EXTINF:0 tvg-rec="0",TCM HD ES
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31883/index.m3u8
+#EXTINF:0 tvg-rec="0",КиноСезон HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31889/index.m3u8
+#EXTINF:0 tvg-rec="0",Suspenso HD ES
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31906/index.m3u8
+#EXTINF:0 tvg-rec="0",КиноКульт HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31914/index.m3u8
+#EXTINF:0 tvg-rec="0",Госфильмофонд. Машина времени HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31929/index.m3u8
+#EXTINF:0 tvg-rec="0",VHS-ка Сериал HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/31931/index.m3u8
+
+#EXTINF:0 tvg-rec="7",BCU Premiere 1 HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11015/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Premiere 2 HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11016/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Premiere 3 HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11017/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Multserial HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11025/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU СССР HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11026/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Action HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11027/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Catastrophe HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11028/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Cinema HDR
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11029/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Cinema+ HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11030/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Comedy HDR
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11031/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Fantastic HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11032/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU FilMystic HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11033/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU History HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11034/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Kids HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11035/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Kids+ HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11036/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Kinorating HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11037/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Marvel HDR
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11038/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Premiere HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11039/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Romantic HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11040/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Russian HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11041/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU VHS HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11042/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Media HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11043/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Stars HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11044/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Ultra 4K
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11045/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU RuSerial HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11046/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Сваты HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11047/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Criminal HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11048/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Reality HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/16082/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Survival HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/17019/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Cosmo HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/17021/index.m3u8
+#EXTINF:0 tvg-rec="7",StrahTV Sky2000 HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11054/index.m3u8
+#EXTINF:0 tvg-rec="7",StrahTV Весёлая Карусель HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11057/index.m3u8
+#EXTINF:0 tvg-rec="7",StrahTV Ералаш HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11058/index.m3u8
+#EXTINF:0 tvg-rec="7",StrahTV VHS HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11059/index.m3u8
+#EXTINF:0 tvg-rec="7",StrahTV Хит HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11064/index.m3u8
+#EXTINF:0 tvg-rec="7",StrahTV Космо HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11065/index.m3u8
+#EXTINF:0 tvg-rec="7",StrahTV Страх HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11069/index.m3u8
+#EXTINF:0 tvg-rec="7",StrahTV Фантастика HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11070/index.m3u8
+#EXTINF:0 tvg-rec="7",StrahTV Юнит HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11071/index.m3u8
+#EXTINF:0 tvg-rec="7",PG Premiere HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11094/index.m3u8
+#EXTINF:0 tvg-rec="7",PG Premium HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11095/index.m3u8
+#EXTINF:0 tvg-rec="7",PG РуКино HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11096/index.m3u8
+#EXTINF:0 tvg-rec="7",PG Victory HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11097/index.m3u8
+#EXTINF:0 tvg-rec="7",PG Paradox HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11098/index.m3u8
+#EXTINF:0 tvg-rec="7",PG Thriller HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11099/index.m3u8
+#EXTINF:0 tvg-rec="7",PG Paradise HD
+#EXTGRP:📽️ Кинозалы 1
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/11100/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.cityeden.info/logotv/kinoazija_logotip.png" tvg-id="cityedem-kinoazia" group-title="📽️ Кинозалы 1", Сити Эдем - КиноАзия
 https://cityeden.catcast.tv/content/34393/index.m3u8
 https://autopilot.catcast.tv/content/34393/index.m3u8?password=promolive
@@ -965,6 +2218,9 @@ http://45.11.139.43:8555/fut2/index.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные", Матч! Футбол 3
 http://185.57.68.33/110/mpegts
 http://185.57.68.33:80/110/index.m3u8
+#EXTINF:0 tvg-rec="3",Окко Футбол HD
+#EXTGRP:⚽ Спортивные
+http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/6554/index.m3u8
 #EXTINF:-1 tvg-id="okko-sport-2" group-title="⚽ Спортивные", Окко.Прайм Спорт
 http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные" tvg-id="Eurosport 1 HD"  tvg-logo="http://1lot.tv/ch/7206.png",Eurosport 1
