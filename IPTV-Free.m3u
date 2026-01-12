@@ -593,9 +593,7 @@ https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/9a/54/c4/9a54c45f5c9de64ccd95909f8e08a401.jpg" tvg-id="no_epg_cinema" group-title="📽️ Кинозал",Мистер Бин
 https://fl1001.bozztv.com/ushba45/index.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал", Kinojam 2
-
-
-
+http://4os6vafy.ottclub.xyz/iptv/AKK7DUVFEFYVGN4NPPYPAR3B/7261/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cityeden.info/logotv/kinoazija_logotip.png" tvg-id="cityedem-kinoazia" group-title="📽️ Кинозалы 1", Сити Эдем - КиноАзия
 https://cityeden.catcast.tv/content/34393/index.m3u8
 https://autopilot.catcast.tv/content/34393/index.m3u8?password=promolive
@@ -799,10 +797,6 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist
 #EXTINF:-1 group-title="📼 Сериалы" tvg-logo="https://iptvx.one/picons/foxlife.png",Fox Life
 http://188.237.47.212:6008
 
-#EXTINF:-1  tvg-id="no_epg_mult"  tvg-logo="https://sun1-19.userapi.com/impg/t0bwliJ7nRQJP-j6bTQKm-KK1FT50dfhjDIS9A/5CDu9oDP4NI.jpg?size=320x180&quality=95&sign=57e4523e95e2cb84862f2f68e0ab6302&c_uniq_tag=hs6dVs-m1Om6oqEPgIKtIT552BtLOoKnbVqgLHaY7og&type=video_thumb"   tvg-name="Мульт Развивайка",VK Мульт Развивайка SD
-#EXTGRP:👶 Детские
-rtmp://vkvsd163.okcdn.ru/playback/9617415285537?stkn=7rG8jAJ_-nsgBzwhMK0YMXnxU1lCKkv9ovPNX2TNniYZq7NsMZGTGN8xMQH1FHtYphA4-vhgtOs&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-
 #EXTINF:0 tvg-rec="3",О! orig
 #EXTGRP:👶 Детские
 
@@ -971,6 +965,8 @@ http://45.11.139.43:8555/fut2/index.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные", Матч! Футбол 3
 http://185.57.68.33/110/mpegts
 http://185.57.68.33:80/110/index.m3u8
+#EXTINF:-1 tvg-id="okko-sport-2" group-title="⚽ Спортивные", Окко.Прайм Спорт
+http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="⚽ Спортивные" tvg-id="Eurosport 1 HD"  tvg-logo="http://1lot.tv/ch/7206.png",Eurosport 1
 http://45.159.74.22/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="belarus5" tvg-logo="https://iptvx.one/picons/belarus5hd.png" group-title="⚽ Спортивные", Беларусь 5 (HD)
