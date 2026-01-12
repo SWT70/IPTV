@@ -445,14 +445,14 @@ http://ost.ping-tv.com/4Lm0zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjku
 #EXTINF:0 CUID="67" tvg-name="1:354" tvg-id="1:354" arc-time="120" catchup="shift" catchup-days="5" tvg-logo="http://stb.ping-tv.com/images/logo_chanel/SHOKIRUYUSHCHEEHD200.png" group-title="📽️ Кинозал",Шокирующее
 http://ost.ping-tv.com/uZGV4Lm0zdTg_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjkub3h0dmUubGl2ZTo5OTgyL3Nob2tpcnV5c2hlZWhkL3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiJhMGZmNGU2MCIsInAiOiJhMGZmNGU2MGY0NzE5YzdiIiwiYyI6IjY3IiwidCI6IjJiYjZiN2MxOWYwODUyZDJlMmMwMGVlMmUxMTAxOGJlIiwiZCI6Ijg4NzU3IiwiciI6IjE3OTc1OSIsIm0iOiJ0diJ9eyJ1IjoiaHR0cDovL3N0cjkub3h0dmUubGl2ZTo4MDgwL3Nob2tpcnV5c2hlZWhkL2l/index.m3u8
 #EXTINF:0 tvg-rec="3",Шокирующее HD
-#EXTGRP:📽️ Кинозалы
+#EXTGRP:📽️ Кинозал
 http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/6299/index.m3u8
 #EXTINF:0 tvg-rec="3",Шокирующее HD
-#EXTGRP:📽️ Кинозалы
+#EXTGRP:📽️ Кинозал
 http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/9004/index.m3u8
 
 #EXTINF:0 tvg-rec="0",Scream HD
-#EXTGRP:📽️ Кинозалы
+#EXTGRP:📽️ Кинозал
 http://ac47ed50.ottolok.net/iptv/LDZC5U8MSD98CH/20021/index.m3u8
 
 #EXTINF:0 tvg-rec="3",Киноужас HD
