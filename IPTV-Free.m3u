@@ -801,16 +801,6 @@ http://188.237.47.212:6008
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 rtmp://vkvsd163.okcdn.ru/playback/9617415285537?stkn=7rG8jAJ_-nsgBzwhMK0YMXnxU1lCKkv9ovPNX2TNniYZq7NsMZGTGN8xMQH1FHtYphA4-vhgtOs&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 
-#EXTINF:0 tvg-rec="3",О! orig
-#EXTGRP:👶 Детские
-
-
-#EXTINF:-1 group-title="👶 Детские" tvg-id="Kli_ChipinDale" tvg-logo="http://1lot.tv/ch/11192.png" catchup="shift" catchup-days="1",Чип и Дейл
-http://srvru.play-x.ru:7799/channel/359a8d26/index.m3u8?q=7170e086faf29a20f6b11698846effd1
-http://srvru.play-x.ru:7799/channel/2700b9d3/index.m3u8?q=7170e086faf29a20f6b11698846effd1
-#EXTINF:-1 group-title="👶 Детские" tvg-id="no-epg" tvg-logo="http://1lot.tv/ch/8116.png" catchup="shift" catchup-days="1",Том и Джерри
-http://srvru.play-x.ru:7799/channel/60096d1b/index.m3u8?q=7170e086faf29a20f6b11698846effd1
-
 #EXTINF:-1 tvg-id="da-vinci" tvg-logo="https://iptvx.one/picons/da-vinci.png" group-title="👶 Детские",Da Vinci
 http://130.193.73.10:8937/play/a014
 #EXTINF:-1 tvg-id="jimjam" tvg-logo="https://epg.iptvx.one/picons/jimjam.png" group-title="👶 Детские",JimJam
