@@ -785,6 +785,17 @@ http://188.237.47.212:6008
 #EXTINF:-1  tvg-id="no_epg_mult"  tvg-logo="https://sun1-19.userapi.com/impg/t0bwliJ7nRQJP-j6bTQKm-KK1FT50dfhjDIS9A/5CDu9oDP4NI.jpg?size=320x180&quality=95&sign=57e4523e95e2cb84862f2f68e0ab6302&c_uniq_tag=hs6dVs-m1Om6oqEPgIKtIT552BtLOoKnbVqgLHaY7og&type=video_thumb"   tvg-name="Мульт Развивайка",VK Мульт Развивайка SD
 #EXTGRP:👶 Детские
 rtmp://vkvsd163.okcdn.ru/playback/9617415285537?stkn=7rG8jAJ_-nsgBzwhMK0YMXnxU1lCKkv9ovPNX2TNniYZq7NsMZGTGN8xMQH1FHtYphA4-vhgtOs&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1  tvg-id="no_epg_mult"  tvg-logo="https://sun1-18.userapi.com/impg/3wTKbWOkV40EusaPbjXEDyi6UeHh1BkBbcobyA/LcdG8FnorVw.jpg?size=320x180&quality=95&sign=581d7a81262031a49b0af97e9659b062&c_uniq_tag=G27jnOh4kGwgfio3IEIblHNg8CUJKNC7KhJcbWxAfqA&type=video_thumb"   tvg-name="Детский 0+",VK Детский 0+ SD
+#EXTGRP:👶 Детские
+rtmp://vkvsd182.okcdn.ru/playback/9942884887405?stkn=9VVfByDOizlWlr_rfoRi8TpelV04alIYQ_0Jk3cI_HojytXGIOqVjegIFH3lVi14ozMs9MWxBP0&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+
+#EXTINF:-1  tvg-id="no_epg_mult"  tvg-logo="https://avatars.mds.yandex.net/get-ott/239697/2a00000173b9e6c0ae818f3aba1aaa8891ca/960x540" ,Чип и Дейлᴴᴰ
+#EXTGRP:👶 Детские
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1  tvg-id="no_epg_mult"  tvg-logo="http://1lot.tv/ch/8025.png" ,Маша и Медведь
+#EXTGRP:👶 Детские
+https://glb.bozztv.com/glb/ushba79/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="👶 Детские", Мульт Развивайка
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -803,10 +814,11 @@ http://31.173.165.29:8000/play/a03q/index.m3u8
 #EXTINF:-1 tvg-id="mama" tvg-logo="https://iptvx.one/picons/mama.png" group-title="👶 Детские", Мама
 http://188.190.222.53/Mama/index.m3u8
 http://stv.mediacdn.ru/live/cdn/mama/playlist_sdhigher.m3u8
-#EXTINF:-1 tvg-id="mult" tvg-logo="https://iptvx.one/picons/mult.png" group-title="👶 Детские", Мульт
-http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-id="mult" tvg-logo="https://iptvx.one/picons/mult.png" group-title="👶 Детские", Мультᴴᴰ
+http://185.46.16.239:8000/Mir_24
+http://31.148.48.15:80/Mult_HD/index.m3u8
 #EXTINF:-1 tvg-id="multimuzyka" tvg-logo="https://iptvx.one/picons/multimuzyka.png" group-title="👶 Детские", МУЛЬТиМУЗЫКА 
-http://dmi3y-tv.ru/hls/CH_MULTIMUZYKA.m3u8
+http://31.148.48.15:80/Multimuzika/index.m3u8
 #EXTINF:-1 tvg-id="multimania-lv" tvg-logo="https://iptvx.one/picons/multimania-lv.png" group-title="👶 Детские", Мультимания
 http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
@@ -819,7 +831,8 @@ http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
 #EXTINF:-1 group-title="👶 Детские", Мамонтëнок ТВ
 http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="👶 Детские",Мультиландия HD
-http://178.217.72.66:8080/multilandiya/index.m3u8
+http://31.148.48.15:80/Multilandiya/index.m3u8?token=test
+http://31.148.48.15:80/Multilandiya/index.m3u8
 #EXTINF:-1 group-title="👶 Детские" tvg-id="malysh", СуперГерои
 http://178.124.179.122:8088/Malish/index.m3u8
 #EXTINF:-1 group-title="👶 Детские", Тамыр
@@ -848,12 +861,19 @@ https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1  tvg-id="smaylik-tv" tvg-logo="https://iptvx.one/picons/smaylik-tv.png" group-title="👶 Детские",Смайл ТВ
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+#EXTINF:-1  tvg-id="sts-kids-hd" ,СТС Kids
+#EXTGRP:👶 Детские
+http://31.148.48.15/STS_Kids_HD/index.m3u8
+#EXTINF:-1  tvg-id="sts-kids-hd" ,СТС Kids
+#EXTGRP:👶 Детские
+http://178.124.153.123:44400/stskids
 #EXTINF:-1 group-title="👶 Детские",СТС Kids HD
 #EXTVLCOPT:http-user-agent=AIMP/3.0 (Android/8.1.0)
 http://31.148.48.15/STS_Kids_HD/index.m3u8
+http://31.148.48.15:80/STS_Kids_HD/index.m3u8
+http://31148.rafail1982.uz/STS_Kids_HD/index.m3u8
 #EXTINF:0 tvg-rec="7",СТС Kids HD
 #EXTGRP:👶 Детские
-http://91.194.191.241:8081/chid61/tracks-v1a1/mono.m3u8
 http://109.200.130.123:7537/play/a02m
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="👶 Детские",СОЛНЦЕ
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
@@ -962,22 +982,34 @@ http://45.159.74.22/AutoPlus/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://content.foto.my.mail.ru/mail/maxraykov/_musicplaylistcover/i-14.jpg" group-title="🎵 Музыкальные", DanceHits 80'
 http://dancehits80.denvs.ru:8080/index.m3u8
-#EXTINF:-1 tvg-id="1hd" tvg-logo="https://iptvx.one/picons/1hd-music.png" group-title="🎵 Музыкальные",1HD (HD)
-http://91.247.68.229:8000/play/eee/index.m3u8
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://www.coolstreaming.us/img/ch/image18194248015.jpg" group-title="🎵 Музыкальные", Deep House District
 https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
-#EXTINF:-1 group-title="🎵 Музыкальные", Курай
-http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
+#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="http://epg.one/img2/4654.png" ,MIXMᴴᴰ
+#EXTGRP:🎵 Музыкальные
+http://89.179.247.144/hls/mixm.m3u8
+http://89.179.247.144/hls/mixm.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMy8yMDI1IDEyOjQ5OjM0IEFNJmhhc2hfdmFsdWU9SC9uVEJEcTFLeDhaRG83MFVwSVBDQT09JnZhbGlkbWludXRlcz00ODA=
+#EXTINF:-1  tvg-id="no_epg_music"  tvg-logo="http://epg.one/img2/4654.png" ,MIXMᴴᴰ
+#EXTGRP:🎵 Музыкальные
+http://89.179.247.144/hls/mixm.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNy8yMDI1IDE6NDk6NDAgUE0maGFzaF92YWx1ZT1SekxTMXNMYTlkV0JrcUIvT0JPN0V3PT0mdmFsaWRtaW51dGVzPTQ4MA==
+https://bl.rutube.ru/livestream/88eba514854a55d87a4b66b66b1977e7/index.m3u8?s=JG7YWz4aFNANfv5gXwpbKg&e=2069068473&scheme=https
 #EXTINF:-1 group-title="🎵 Музыкальные", Музыка Первого 
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Muz_Perv
+http://176.96.241.40/MuzikaPervogo/index.m3u8
+http://193.25.8.59:8000/muzika
 #EXTINF:-1 group-title="🎵 Музыкальные", Первый Музыкальный
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 group-title="🎵 Музыкальные", Телеканал Радио Страна ФМ
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="🎵 Музыкальные", ТНТ Music HD
-http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
+http://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
+http://185.46.16.239:8000/Nashe_TV
+http://195.26.83.96:7029/play/9
+http://185.58.205.1:4022/udp/224.0.90.98:1234
+http://31.148.48.15:80/TNT_Music/index.m3u8?token=test
+#EXTINF:-1  tvg-id="tnt-music"  tvg-logo="https://i.imgur.com/RenuH4S.png" ,ТНТ Musicᴴᴰ
+#EXTGRP:🎵 Музыкальные
+http://cdn-01.bonus-tv.ru/tntmusic/tracks-v1a1/index.m3u8
+https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
+https://cdn-01.bonus-tv.ru/tntmusic/index.m3u8
 #EXTINF:-1 tvg-id="shanson-tv" group-title="🎵 Музыкальные", Шансон-ТВ 
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="🎵 Музыкальные",Страна FM HD
@@ -1040,7 +1072,10 @@ https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="🎵 Музыкальные", Deluxe Music 
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 group-title="🎵 Музыкальные", Europa Plus TV
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Eur_Plus
+http://31148.rafail1982.uz/Europa_Plus_HD/index.m3u8
+#EXTINF:-1  tvg-id="europa-plus-tv" ,Europa Plus TV
+#EXTGRP:🎵 Музыкальные
+http://31.148.48.15/Europa_Plus_HD/index.m3u8
 #EXTINF:-1 group-title="🎵 Музыкальные", Kiss Kiss
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🎵 Музыкальные", Kronehit
