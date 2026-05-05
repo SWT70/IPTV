@@ -814,6 +814,24 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist
 http://188.237.47.212:6008
 
 
+#EXTINF:0 tvg-rec="0",Venera.TV Три кота
+#EXTGRP:👶 Детские
+http://4os6vafy.ottclub.xyz/iptv/YM8ZXUFKMUKN9ASYNL7WWEK7/30157/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Мини-мишки
+#EXTGRP:👶 Детские
+http://4os6vafy.ottclub.xyz/iptv/YM8ZXUFKMUKN9ASYNL7WWEK7/30178/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Маша и Медведь
+#EXTGRP:👶 Детские
+http://4os6vafy.ottclub.xyz/iptv/YM8ZXUFKMUKN9ASYNL7WWEK7/30180/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Свинка Пеппа
+#EXTGRP:👶 Детские
+http://4os6vafy.ottclub.xyz/iptv/YM8ZXUFKMUKN9ASYNL7WWEK7/30158/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Пчёлка Майя
+#EXTGRP:👶 Детские
+http://4os6vafy.ottclub.xyz/iptv/YM8ZXUFKMUKN9ASYNL7WWEK7/30173/index.m3u8
+#EXTINF:0 tvg-rec="0",Venera.TV Енотки. Первые слова
+#EXTGRP:👶 Детские
+http://4os6vafy.ottclub.xyz/iptv/YM8ZXUFKMUKN9ASYNL7WWEK7/30189/index.m3u8
 #EXTINF:-1  tvg-id="no_epg_mult"  tvg-logo="https://sun1-19.userapi.com/impg/t0bwliJ7nRQJP-j6bTQKm-KK1FT50dfhjDIS9A/5CDu9oDP4NI.jpg?size=320x180&quality=95&sign=57e4523e95e2cb84862f2f68e0ab6302&c_uniq_tag=hs6dVs-m1Om6oqEPgIKtIT552BtLOoKnbVqgLHaY7og&type=video_thumb"   tvg-name="Мульт Развивайка",VK Мульт Развивайка SD
 #EXTGRP:👶 Детские
 rtmp://vkvsd163.okcdn.ru/playback/9617415285537?stkn=7rG8jAJ_-nsgBzwhMK0YMXnxU1lCKkv9ovPNX2TNniYZq7NsMZGTGN8xMQH1FHtYphA4-vhgtOs&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
@@ -827,7 +845,6 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1  tvg-id="no_epg_mult"  tvg-logo="http://1lot.tv/ch/8025.png" ,Маша и Медведь
 #EXTGRP:👶 Детские
 https://glb.bozztv.com/glb/ushba79/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="👶 Детские", Мульт Развивайка
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
