@@ -469,7 +469,6 @@ http://tchaikovsky.af-stream.com:8080/s/bzssacbj/kvn-tv/video.m3u8
 #EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png" group-title="📽️ Кинозал", НСТ 
 http://vod.tuva.ru/nst/index.m3u8
 #EXTINF:-1 tvg-id="nst" tvg-logo="https://iptvx.one/picons/nst.png" group-title="📽️ Кинозал", НСТ 
-http://178.217.72.66:8080/NSTV/index.m3u8
 http://dmi3y-tv.ru/hls/CH_NST.m3u8
 http://178.212.71.253:8000/play/100/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/shokiruyushchee-hd.png" tvg-id="shokiruyushchee-hd" group-title="📽️ Кинозал",Шокирующее HD
@@ -491,19 +490,14 @@ http://stream.mcquack.net/107/index.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал", Кинопремьера HD
 https://fs.uplink.kz/kinopremiera_hd/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 http://tvip.btk.teleos.ru:8081/chid518/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📽️ Кинозал", Киносемья HD
-http://iptv46.mcx-ix.ru:8077/kinosemya/index.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал", Киносемья
 https://fs.uplink.kz/kinosemya/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 http://158.101.222.193:88/georgia_play.php?id=kinosemya
 #EXTINF:-1 group-title="📽️ Кинозал", Кинокомедия HD
 http://stream.mcquack.net/265/index.m3u8
-#EXTINF:-1 group-title="📽️ Кинозал", Кинокомедия
-http://iptv46.mcx-ix.ru:8077/komediya/index.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал", Индийское кино 
 http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал", Комедийное HD
-http://178.217.72.72/komediynoe/index.m3u8
 http://188.190.222.53/Kinopokaz_HD2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал" , viju+ Megahit HD
 https://flussonic.mkpnet.ru/tv-3d1cedf99303d057/video.m3u8
@@ -558,7 +552,7 @@ http://stream.mcquack.net/268/index.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал" ,Иллюзион+
 
 #EXTINF:-1 tvg-id="premialnoe-hd" tvg-logo="https://iptvx.one/picons/premialnoe-hd.png" group-title="📽️ Кинозал", Премиальное HD
-http://188.190.222.53/Kino_Premium_HD/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 group-title="📽️ Кинозал", Премиальное HD (+4)
 
 #EXTINF:-1 tvg-id="evrokino" tvg-logo="https://iptvx.one/picons/eurokino.png" group-title="📽️ Кинозал", Еврокино
