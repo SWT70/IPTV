@@ -6,8 +6,8 @@
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📺 Общероссийские" tvg-logo="http://epg.it999.ru/img/146.png",Первый канал (-1)
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 https://edge02r.mediavitrina.ru/hls-livef5/1tv/index.m3u8?token=v2.pMsbDgmZI2lf5kaLjtA0DN2tf7KHgVD7VSj3P-ivpFg.LyZ9WBc8dot3uyXWJyY2mMY9WQIslHf4OmX4uFvApLY.1788515040.3b5f40849f9ee69f17e84771671ae5a6
-#EXTINF:0 group-title="Общероссийские" tvg-id="pervyj-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/pervyj-hd.png" tvg-rec="7" catchup-days="7",Первый HD
-#EXTGRP:📺 Общероссийские
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/pervy.png" tvg-id="pervy" group-title="📺 Общероссийские", Первый FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://edge02r.mediavitrina.ru/hls-livef5/1tv/index.m3u8?token=v2.pMsbDgmZI2lf5kaLjtA0DN2tf7KHgVD7VSj3P-ivpFg.LyZ9WBc8dot3uyXWJyY2mMY9WQIslHf4OmX4uFvApLY.1788515040.3b5f40849f9ee69f17e84771671ae5a6
 #EXTINF:-1  catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="📺 Общероссийские"  tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" ,Первый канал
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
