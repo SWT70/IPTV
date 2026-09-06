@@ -474,12 +474,12 @@ http://dmi3y-tv.ru/hls/CH_NST.m3u8
 http://178.212.71.253:8000/play/100/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/shokiruyushchee-hd.png" tvg-id="shokiruyushchee-hd" group-title="📽️ Кинозал",Шокирующее HD
 https://tinyurl.com/2x47stw5/905.m3u8
-#EXTINF:-1 group-title="📽️ Кинозал", Киноужас
+#EXTINF:-1 group-title="📽️ Кинозал", Киноужас HD
 http://stream.mcquack.net/278/index.m3u8
 http://91.194.191.241:8081/chid461/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал", Кинохит HD
 http://stream.mcquack.net/126/index.m3u8
-#EXTINF:-1 group-title="📽️ Кинозал", Киномикс HD
+#EXTINF:-1 group-title="📽️ Кинозал", Киномикс
 http://93.170.254.17/Kinomiks/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал", Киносвидание
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
@@ -492,28 +492,24 @@ http://stream.mcquack.net/107/index.m3u8
 https://fs.uplink.kz/kinopremiera_hd/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 http://tvip.btk.teleos.ru:8081/chid518/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал", Киносемья HD
-https://fs.uplink.kz/kinosemya/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 http://iptv46.mcx-ix.ru:8077/kinosemya/index.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал", Киносемья
-http://178.212.71.253:8000/play/127/index.m3u8
+https://fs.uplink.kz/kinosemya/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 http://158.101.222.193:88/georgia_play.php?id=kinosemya
 #EXTINF:-1 group-title="📽️ Кинозал", Кинокомедия HD
 http://stream.mcquack.net/265/index.m3u8
-http://iptv46.mcx-ix.ru:8077/komediya/index.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал", Кинокомедия
-http://178.212.71.253:8000/play/85/index.m3u8
+http://iptv46.mcx-ix.ru:8077/komediya/index.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал", Индийское кино 
 http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал", Комедийное HD
-http://217.25.80.16/Komediynoe_HD/mono.m3u8
 http://178.217.72.72/komediynoe/index.m3u8
 http://188.190.222.53/Kinopokaz_HD2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал" , viju+ Megahit HD
 https://flussonic.mkpnet.ru/tv-3d1cedf99303d057/video.m3u8
-#EXTINF:-1 group-title="📽️ Кинозал"  , viju+ Premiere
-https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал" , viju+ Premiere HD
 http://192.162.64.99:5200/play/a02f/index.m3u8
+https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал" , viju+ Comedy HD
 https://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал" , viju TV1000 action HD
@@ -535,11 +531,9 @@ http://95.66.188.74/Kinopokaz/mono.m3u8
 http://31.148.48.15/Kinopokaz/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:-1 group-title="📽️ Кинозал", Кинопоказ HD (+3)
 
-#EXTINF:0 tvg-rec="3",Кино ТВ HD
+#EXTINF:0 tvg-rec="3",Кино ТВ
 #EXTGRP:📽️ Кинозал
 http://185.46.16.239:8000/Kino_TV
-#EXTINF:-1 group-title="📽️ Кинозал" tvg-logo="https://iptvx.one/picons/kino-tv.png",КиноТВ HD
-http://31.148.48.15/Kino_TV_HD/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/КИНО ТВ.png" group-title="📽️ Кинозал",КиноТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 https://vod.tuva.ru/kinotv/index.m3u8
@@ -557,14 +551,13 @@ http://46.8.46.14/TV21/index.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал" ,Cinema
 http://185.46.16.239:8000/Cinema
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📽️ Кинозал", Любимое кино 
+#EXTINF:-1 group-title="📽️ Кинозал", Любимое кино HD
 http://176.118.197.101/LubimoeKino/index.m3u8
 #EXTINF:-1 tvg-id="hollywood" tvg-logo="https://iptvx.one/picons/hollywood.png" group-title="📽️ Кинозал",Hollywood HD 
 http://stream.mcquack.net/268/index.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал" ,Иллюзион+
-http://tv.ttk.mx:9028
+
 #EXTINF:-1 tvg-id="premialnoe-hd" tvg-logo="https://iptvx.one/picons/premialnoe-hd.png" group-title="📽️ Кинозал", Премиальное HD
-http://178.217.72.72/kinopremium/index.m3u8
 http://188.190.222.53/Kino_Premium_HD/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал", Премиальное HD (+4)
 
@@ -574,16 +567,14 @@ https://fs.uplink.kz/eurokino/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 https://flussonic.mkpnet.ru/tv-e055808223a74709/video.m3u8
 #EXTINF:-1 tvg-id="shot-tv" tvg-logo="https://iptvx.one/picons/shot-tv.png" group-title="📽️ Кинозал",SHOT TV
 
-#EXTINF:-1 tvg-id="312-kino" tvg-logo="https://iptvx.one/picons/312-kino.png" group-title="📽️ Кинозал",312 Кино
-http://176.126.166.43:1935/live/312kino/chunklist_w164832369.m3u8
-#EXTINF:-1 group-title="📽️ Кинозал", VHS-ка
+#EXTINF:-1 group-title="📽️ Кинозал", VHS-ка HD
 https://tinyurl.com/teh55yef/5006/index.m3u8
 #EXTINF:-1 group-title="📽️ Кинозал" ,FILMBOX
 #EXTINF:-1 tvg-id="kino-24" tvg-logo="https://iptvx.one/picons/kino-24.png" group-title="📽️ Кинозал",Kino 24
 #EXTINF:-1 group-title="📽️ Кинозал", Блокбастер
 #EXTINF:-1 group-title="📽️ Кинозал", Сinema Cosmos TV
 
-#EXTINF:-1 group-title="📽️ Кинозал", FAN 
+#EXTINF:-1 group-title="📽️ Кинозал", FAN HD
 http://stream.mcquack.net/420/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/8/8d/The_Benny_Hill_Show.jpg" tvg-id="no_epg_cinema" group-title="📽️ Кинозал",Шоу Бенни Хилла
 
