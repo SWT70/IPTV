@@ -916,6 +916,9 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTGRP:👶 Детские
 https://glb.bozztv.com/glb/ushba79/index.m3u8
 
+#EXTINF:-1 tvg-id="o_" tvg-logo="https://iptvx.one/picons/o_.png" group-title="👶 Детские" ,О!
+http://fs.uplink.kz/o/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" group-title="👶 Детские", Мульт Развивайка
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 rtmp://vkvsd163.okcdn.ru/playback/9617415285537?stkn=7rG8jAJ_-nsgBzwhMK0YMXnxU1lCKkv9ovPNX2TNniYZq7NsMZGTGN8xMQH1FHtYphA4-vhgtOs&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
@@ -931,13 +934,12 @@ http://tv.ttk.mx:9063
 #EXTINF:-1 tvg-id="kinomult" tvg-logo="https://iptvx.one/picons/kinomult.png" group-title="👶 Детские", Кино Мульт
 
 #EXTINF:-1 tvg-id="mama" tvg-logo="https://iptvx.one/picons/mama.png" group-title="👶 Детские", Мама
-
-http://stv.mediacdn.ru/live/cdn/mama/playlist_sdhigher.m3u8
+http://31.210.208.171:8080/mama/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="mult" tvg-logo="https://iptvx.one/picons/mult.png" group-title="👶 Детские", Мультᴴᴰ
 https://flussonic.mkpnet.ru/tv-c8b065a591077c26/video.m3u8
 http://31.148.48.15:80/Mult_HD/index.m3u8
 #EXTINF:-1 tvg-id="multimuzyka" tvg-logo="https://iptvx.one/picons/multimuzyka.png" group-title="👶 Детские", МУЛЬТиМУЗЫКА 
-
+http://31.210.208.171:8080/mult_i_muzika/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="multimania-lv" tvg-logo="https://iptvx.one/picons/multimania-lv.png" group-title="👶 Детские", Мультимания
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="👶 Детские", Кнопка ТВ 
@@ -945,7 +947,7 @@ http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
 #EXTINF:-1 group-title="👶 Детские", Мамонтëнок ТВ
 http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="👶 Детские",Мультиландия HD
-https://flussonic.mkpnet.ru/tv-89530153f25733fe/video.m3u8
+http://fs.uplink.kz/multilandia/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 http://31.148.48.15:80/Multilandiya/index.m3u8
 #EXTINF:-1 group-title="👶 Детские" tvg-id="malysh", СуперГерои
 
